@@ -1,0 +1,3002 @@
+[
+    {
+        "id": "1__school",
+        "english": "School. I go to school from Monday to Saturday.",
+        "japanese": "私は月曜日から土曜日まで学校に行きます。",
+        "jpg": "【1__school】I go to school from Monday to Saturday."
+    },
+    {
+        "id": "2__student",
+        "english": "Student. My brother is a high school student.",
+        "japanese": "私の兄は高校生です。",
+        "jpg": "【2__student】My brother is a high school student."
+    },
+    {
+        "id": "3__English",
+        "english": "English. She is very good at English. I can sing some English songs.",
+        "japanese": "彼女は英語がとても上手です。私は英語の歌をいくつか歌うことができます。",
+        "jpg": "【3__English】She is very good at English.／I can sing some English songs."
+    },
+    {
+        "id": "4__Japanese",
+        "english": "Japanese. You speak Japanese well. Do you like Japanese food?",
+        "japanese": "あなたは日本語が上手です。日本食は好きですか？",
+        "jpg": "【4__Japanese】You speak Japanese well.／Do you like Japanese food?"
+    },
+    {
+        "id": "5__friend",
+        "english": "Friend. He is my best friend.",
+        "japanese": "彼は私の親友です。",
+        "jpg": "【5__friend】He is my best friend."
+    },
+    {
+        "id": "6__food",
+        "english": "Food. What kind of food do you like?",
+        "japanese": "あなたはどんな食べ物が好きですか？",
+        "jpg": "【6__food】What kind of food do you like?"
+    },
+    {
+        "id": "7__family",
+        "english": "Family. I know his family well.",
+        "japanese": "私は彼の家族をよく知っています。",
+        "jpg": "【7__family】I know his family well."
+    },
+    {
+        "id": "8__child",
+        "english": "Child. Do you have any children?",
+        "japanese": "子供はいますか？",
+        "jpg": "【8__child】Do you have any children?"
+    },
+    {
+        "id": "9__team",
+        "english": "Team. I am a member of the baseball team.",
+        "japanese": "私は野球チームのメンバーです。",
+        "jpg": "【9__team】I am a member of the baseball team."
+    },
+    {
+        "id": "10__park",
+        "english": "Park. I often go to the park. Where can I park? Where can I park my car?",
+        "japanese": "私はよく公園に行きます。どこに駐車すればいいですか？車はどこに駐車できますか?",
+        "jpg": "【10__park】I often go to the park.／Where can I park?／Where can I park my car?"
+    },
+    {
+        "id": "11__station",
+        "english": "Station. Let's meet at the subway station. Do you want to work at a TV station?",
+        "japanese": "地下鉄の駅で会いましょう。テレビ局で働きたいですか？",
+        "jpg": "【11__station】Let's meet at the subway station.／Do you want to work at a TV station?"
+    },
+    {
+        "id": "12__train",
+        "english": "Train. I usually take the 8 o'clock train to school. My parents train dogs for the blind people.",
+        "japanese": "私はいつも8時の電車に乗って学校に行きます。私の両親は視覚障害者のために犬を訓練しています。",
+        "jpg": "【12__train】I usually take the 8 o'clock train to school.／My parents train dogs for the blind people."
+    },
+    {
+        "id": "13__name",
+        "english": "Name. Please write your name here. He named his son Benjamin.",
+        "japanese": "ここにあなたの名前を書いてください。彼は息子をベンジャミンと名付けました。",
+        "jpg": "【13__name】Please write your name here.／He named his son Benjamin."
+    },
+    {
+        "id": "14__hello",
+        "english": "Hello. Yeah. Hello, how are you?",
+        "japanese": "こんにちは。やあ。もしもし。お元気ですか？",
+        "jpg": "【14__hello】Yeah.／Hello, how are you?"
+    },
+    {
+        "id": "15__sport",
+        "english": "Sport. My favorite sports are soccer and tennis.",
+        "japanese": "私の好きなスポーツはサッカーとテニスです。",
+        "jpg": "【15__sport】My favorite sports are soccer and tennis."
+    },
+    {
+        "id": "16__can",
+        "english": "Can. Can you swim? Yes, I can. You can go home now.",
+        "japanese": "泳げますか？はい、できます。もう家に帰っても大丈夫です。",
+        "jpg": "【16__can】Can you swim?／Yes, I can.／You can go home now."
+    },
+    {
+        "id": "17__people",
+        "english": "People. Our neighbors are nice people.",
+        "japanese": "私たちの隣人は良い人たちです。",
+        "jpg": "【17__people】Our neighbors are nice people."
+    },
+    {
+        "id": "18__go",
+        "english": "Go. I go to school from Monday to Friday.",
+        "japanese": "私は月曜日から金曜日まで学校に行きます。",
+        "jpg": "【18__go】I go to school from Monday to Friday."
+    },
+    {
+        "id": "19__think",
+        "english": "Think. I think he can do it. I think that he can do it. I think so.",
+        "japanese": "彼にはそれができると思う。彼にはそれができると思う。そう思います。",
+        "jpg": "【19__think】I think he can do it.／I think that he can do it.／I think so."
+    },
+    {
+        "id": "20__want",
+        "english": "Want. What do you want for your birthday? I want to drink something cold.",
+        "japanese": "誕生日に何が欲しいですか？冷たいものが飲みたいです。",
+        "jpg": "【20__want】What do you want for your birthday?／I want to drink something cold."
+    },
+    {
+        "id": "21__this",
+        "english": "This. This book is very interesting. Whose bag is this? It's mine. Look at this.",
+        "japanese": "この本はとても興味深いです。これは誰のバッグですか?それは私のです。これを見てください。",
+        "jpg": "【21__this】This book is very interesting.／Whose bag is this?／It's mine.／Look at this."
+    },
+    {
+        "id": "22__make",
+        "english": "Make. I make ham sandwiches every Saturday. The news made us happy.",
+        "japanese": "私は毎週土曜日にハムサンドイッチを作ります。そのニュースは私たちを幸せにしました。",
+        "jpg": "【22__make】I make ham sandwiches every Saturday.／The news made us happy."
+    },
+    {
+        "id": "23__what",
+        "english": "What. What is your dog's name? His name is Max. What color is your dress? What a good idea. What a good idea it is.",
+        "japanese": "あなたの犬の名前は何ですか?彼の名前はマックスです。あなたのドレスは何色ですか？なんとも良いアイデアですね。なんとも良いアイデアですね。",
+        "jpg": "【23__what】What is your dog's name?／His name is Max.／What color is your dress?／What a good idea.／What a good idea it is."
+    },
+    {
+        "id": "24__see",
+        "english": "See. You can see Mount Fuji from here. I want to see her. I can't see the point. I see. Let me see. Let's see. Long time no see.",
+        "japanese": "ここからは富士山が見えます。彼女に会いたい。要点がわかりません。なるほど。そうねぇ。見てみましょう。お久しぶりです。",
+        "jpg": "【24__see】You can see Mount Fuji from here.／I want to see her.／I can't see the point.／I see.／Let me see.／Let's see.／Long time no see."
+    },
+    {
+        "id": "25__to",
+        "english": "To. How can I get to the station? I was busy from morning to night yesterday.",
+        "japanese": "どうやって駅まで行けますか？昨日は朝から晩まで忙しかったです。",
+        "jpg": "【25__to】How can I get to the station?／I was busy from morning to night yesterday."
+    },
+    {
+        "id": "26__in",
+        "english": "In. He is in the gym now. Can you come in the morning? Please speak in English here. Now, come in and close the door.",
+        "japanese": "彼は今ジムにいます。朝来てもらえますか？ここでは英語で話してください。さあ、入ってドアを閉めてください。",
+        "jpg": "【26__in】He is in the gym now.／Can you come in the morning?／Please speak in English here.／Now, come in and close the door."
+    },
+    {
+        "id": "27__and",
+        "english": "And. Tom and Bob are brothers. I went to the restaurant and ate lunch. Hurry up. And you can catch the one o'clock train.",
+        "japanese": "トムとボブは兄弟です。私はレストランに行って昼食を食べました。急いで。そして、1時の電車に乗れます。",
+        "jpg": "【27__and】Tom and Bob are brothers.／I went to the restaurant and ate lunch.／Hurry up.／And you can catch the one o'clock train."
+    },
+    {
+        "id": "28__they",
+        "english": "They. They are all from China.",
+        "japanese": "彼らは全員中国出身です。",
+        "jpg": "【28__they】They are all from China."
+    },
+    {
+        "id": "29__good",
+        "english": "Good. This is good. Have a good time.",
+        "japanese": "これは良いですね。楽しい時間をお過ごしください。",
+        "jpg": "【29__good】This is good.／Have a good time."
+    },
+    {
+        "id": "30__like",
+        "english": "Like. I like music. I want to be a player like him.",
+        "japanese": "私は音楽が好きです。私も彼のような選手になりたいです。",
+        "jpg": "【30__like】I like music.／I want to be a player like him."
+    },
+    {
+        "id": "31__know",
+        "english": "Know. Do you know his email address?",
+        "japanese": "彼のメールアドレスを知っていますか?",
+        "jpg": "【31__know】Do you know his email address?"
+    },
+    {
+        "id": "32__thing",
+        "english": "Thing. I want to eat sweet things.",
+        "japanese": "甘いものが食べたいです。",
+        "jpg": "【32__thing】I want to eat sweet things."
+    },
+    {
+        "id": "33__use",
+        "english": "Use. Do you often use your smartphone?",
+        "japanese": "スマートフォンをよく使いますか？",
+        "jpg": "【33__use】Do you often use your smartphone?"
+    },
+    {
+        "id": "34__come",
+        "english": "Come. Please come to me at 5 o'clock. I can come to you on Saturday.",
+        "japanese": "5時に私のところに来てください。土曜日には来れますよ。",
+        "jpg": "【34__come】Please come to me at 5 o'clock.／I can come to you on Saturday."
+    },
+    {
+        "id": "35__yes",
+        "english": "Yes. Do you know him? Yes, I do.",
+        "japanese": "彼を知っていますか？はい、知っています。",
+        "jpg": "【35__yes】Do you know him?／Yes, I do."
+    },
+    {
+        "id": "36__now",
+        "english": "Now. Are you free now? Go now! Now listen.",
+        "japanese": "今は空いていますか？今すぐ行きましょう！さあ聞いてください。",
+        "jpg": "【36__now】Are you free now?／Go now!／Now listen."
+    },
+    {
+        "id": "37__of",
+        "english": "Of. I often read books in the library of our school. All of us agree with him. I like the paintings of the painter.",
+        "japanese": "私は学校の図書室でよく本を読みます。私たち全員が彼の意見に同意します。私はその画家の絵が好きです。",
+        "jpg": "【37__of】I often read books in the library of our school.／All of us agree with him.／I like the paintings of the painter."
+    },
+    {
+        "id": "38__do",
+        "english": "Do. Do you like soccer? Yes I do. No, I do not. No, I don't. What do you do on Sunday?",
+        "japanese": "サッカーは好きですか？はい、そうです。いいえ、違います。いいえ、私はしません。日曜日は何をしますか?",
+        "jpg": "【38__do】Do you like soccer?／Yes I do.／No, I do not.／No, I don't.／What do you do on Sunday?"
+    },
+    {
+        "id": "39__that",
+        "english": "That. I like that movie. What is that? It's a paper plane. Don't do that again.",
+        "japanese": "私はその映画が好きです。それは何ですか？それは紙飛行機です。二度とそんなことしないでください。",
+        "jpg": "【39__that】I like that movie.／What is that?／It's a paper plane.／Don't do that again."
+    },
+    {
+        "id": "40__have",
+        "english": "Have. I have a sister. Let's have lunch in the park.",
+        "japanese": "私には妹がいます。公園でお昼を食べましょう。",
+        "jpg": "【40__have】I have a sister.／Let's have lunch in the park."
+    },
+    {
+        "id": "41__for",
+        "english": "For. They sell t-shirts for big people at the store. We want to stay here for three days. Too much salt is not good for your health.",
+        "japanese": "彼らは店で大きな人向けのTシャツを販売しています。私たちはここに3日間滞在したいと思っています。塩分の摂りすぎは健康に良くありません。",
+        "jpg": "【41__for】They sell t-shirts for big people at the store.／We want to stay here for three days.／Too much salt is not good for your health."
+    },
+    {
+        "id": "42__about",
+        "english": "About. Let's do something about the problem. The man is about 20 years old.",
+        "japanese": "その問題について何かをしましょう。男は20歳くらいです。",
+        "jpg": "【42__about】Let's do something about the problem.／The man is about 20 years old."
+    },
+    {
+        "id": "43__his",
+        "english": "His. Is this your book? No, it is his.",
+        "japanese": "これはあなたの本ですか？いいえ、それは彼のものです。",
+        "jpg": "【43__his】Is this your book?／No, it is his."
+    },
+    {
+        "id": "44__tell",
+        "english": "Tell. Please tell me the way to the station.",
+        "japanese": "駅までの道を教えてください。",
+        "jpg": "【44__tell】Please tell me the way to the station."
+    },
+    {
+        "id": "45__not",
+        "english": "Not. I am not hungry.",
+        "japanese": "お腹は空いていません。",
+        "jpg": "【45__not】I am not hungry."
+    },
+    {
+        "id": "46__well",
+        "english": "Well. Get well soon. She sings well. Well, let me see.",
+        "japanese": "お早い回復を願っております。彼女は上手に歌います。まあ、見てみましょう。",
+        "jpg": "【46__well】Get well soon.／She sings well.／Well, let me see."
+    },
+    {
+        "id": "47__first",
+        "english": "First. What is the first month of the year? January is. What do you want to do first? When is your birthday? October 1st. October the first.",
+        "japanese": "年の最初の月は何月ですか?1月。まず何をしたいですか？あなたの誕生日はいつですか？10月1日。１０月１日。",
+        "jpg": "【47__first】What is the first month of the year?／January is.／What do you want to do first?／When is your birthday?／October 1st.／October the first."
+    },
+    {
+        "id": "48__play",
+        "english": "Play. Let's play basketball. She can play the piano. They are going to perform a play this fall.",
+        "japanese": "バスケットボールをしましょう。彼女はピアノを弾くことができます。彼らはこの秋に演劇を上演する予定です。",
+        "jpg": "【48__play】Let's play basketball.／She can play the piano.／They are going to perform a play this fall."
+    },
+    {
+        "id": "49__say",
+        "english": "Say. He said, how are you? The sign says, no smoking.",
+        "japanese": "彼は言い​​ました、「調子はどうですか？」標識には禁煙と書かれています。",
+        "jpg": "【49__say】He said, how are you?／The sign says, no smoking."
+    },
+    {
+        "id": "50__with",
+        "english": "With. I live with my parents and grandmother. Do you know the woman with red hair? Clean the table with a cloth.",
+        "japanese": "私は両親と祖母と住んでいます。あなたは赤い髪の女性を知っていますか？テーブルを布で拭きます。",
+        "jpg": "【50__with】I live with my parents and grandmother.／Do you know the woman with red hair?／Clean the table with a cloth."
+    },
+    {
+        "id": "51__at",
+        "english": "At. What time do you arrive at the station? We eat dinner at 7 o'clock.",
+        "japanese": "何時に駅に着きますか？私たちは7時に夕食を食べます。",
+        "jpg": "【51__at】What time do you arrive at the station?／We eat dinner at 7 o'clock."
+    },
+    {
+        "id": "52__but",
+        "english": "But. I like meat. But she likes vegetables.",
+        "japanese": "私は肉が好きです。でも彼女は野菜が好きです。",
+        "jpg": "【52__but】I like meat.／But she likes vegetables."
+    },
+    {
+        "id": "53__when",
+        "english": "When. When do you practice tennis? After school and on Sundays.",
+        "japanese": "あなたはいつテニスを練習しますか？放課後と日曜日。",
+        "jpg": "【53__when】When do you practice tennis?／After school and on Sundays."
+    },
+    {
+        "id": "54__so",
+        "english": "So. Why do you think so? Thank you so much. I'm hungry, so I want to eat a lot.",
+        "japanese": "なぜそう思いますか?どうもありがとう。お腹が空いたのでたくさん食べたいです。",
+        "jpg": "【54__so】Why do you think so?／Thank you so much.／I'm hungry, so I want to eat a lot."
+    },
+    {
+        "id": "55__many",
+        "english": "Many. How many books do you have? Many of those people live in this area.",
+        "japanese": "何冊本を持っていますか？そうした人々の多くがこの地域に住んでいます。",
+        "jpg": "【55__many】How many books do you have?／Many of those people live in this area."
+    },
+    {
+        "id": "56__very",
+        "english": "Very. Please use it very carefully.",
+        "japanese": "十分に注意してご使用ください。",
+        "jpg": "【56__very】Please use it very carefully."
+    },
+    {
+        "id": "57__there",
+        "english": "There. I saw him there two days ago. There are many famous temples in Kyoto.",
+        "japanese": "私は二日前にそこで彼を見かけました。京都には有名なお寺がたくさんあります。",
+        "jpg": "【57__there】I saw him there two days ago.／There are many famous temples in Kyoto."
+    },
+    {
+        "id": "58__on",
+        "english": "On. Put it on the table. I play soccer on Sundays. I found this information on the internet. She stopped, looked around, and walked on.",
+        "japanese": "テーブルの上に置きます。私は日曜日にサッカーをします。この情報をインターネットで見つけました。彼女は立ち止まり、周りを見回し、そして歩き続けました。",
+        "jpg": "【58__on】Put it on the table.／I play soccer on Sundays.／I found this information on the internet.／She stopped, looked around, and walked on."
+    },
+    {
+        "id": "59__from",
+        "english": "From. The store is open from 10 o'clock. Our English teacher is from California.",
+        "japanese": "お店は10時からオープンしています。私たちの英語の先生はカリフォルニア出身です。",
+        "jpg": "【59__from】The store is open from 10 o'clock.／Our English teacher is from California."
+    },
+    {
+        "id": "60__them",
+        "english": "Them. Let's play soccer with them on Sunday.",
+        "japanese": "日曜日に彼らとサッカーをしましょう。",
+        "jpg": "【60__them】Let's play soccer with them on Sunday."
+    },
+    {
+        "id": "61__some",
+        "english": "Some. I can see some people at the gate. Most birds can fly, but some cannot.",
+        "japanese": "門のところに何人かの人が見えます。ほとんどの鳥は飛ぶことができますが、飛べない鳥もいます。",
+        "jpg": "【61__some】I can see some people at the gate.／Most birds can fly, but some cannot."
+    },
+    {
+        "id": "62__one",
+        "english": "One. Take one at a time. You have two dictionaries. Please lend me one. She is only one year old.",
+        "japanese": "一度に1つずつ摂取してください。あなたは辞書を 2 冊持っています。一つ貸してください。彼女はまだ1歳です。",
+        "jpg": "【62__one】Take one at a time.／You have two dictionaries.／Please lend me one.／She is only one year old."
+    },
+    {
+        "id": "63__day",
+        "english": "Day. The day after Monday is Tuesday. Please talk about your school days. What day is it today?",
+        "japanese": "月曜日の翌日は火曜日です。学生時代のことを話してください。今日は何の日ですか?",
+        "jpg": "【63__day】The day after Monday is Tuesday.／Please talk about your school days.／What day is it today?"
+    },
+    {
+        "id": "64__how",
+        "english": "How. How do I get to the station from here? How long is the river? How are you now? How pretty the girl is.",
+        "japanese": "ここから駅まではどうやって行けますか?川の長さはどれくらいですか？今はどうですか？その女の子はなんてかわいいんだろう。",
+        "jpg": "【64__how】How do I get to the station from here?／How long is the river?／How are you now?／How pretty the girl is."
+    },
+    {
+        "id": "65__their",
+        "english": "Their. Is their team strong?",
+        "japanese": "彼らのチームは強いですか？",
+        "jpg": "【65__their】Is their team strong?"
+    },
+    {
+        "id": "66__talk",
+        "english": "Talk. Don't talk in class. My parents want to have a talk with you.",
+        "japanese": "授業中は話さないでください。私の両親はあなたと話したいと思っています。",
+        "jpg": "【66__talk】Don't talk in class.／My parents want to have a talk with you."
+    },
+    {
+        "id": "67__time",
+        "english": "Time. Do you have some time? How many times a week do you practice tennis? What time is it?",
+        "japanese": "少し時間はありますか？あなたは週に何回テニスの練習をしますか。今何時ですか？",
+        "jpg": "【67__time】Do you have some time?／How many times a week do you practice tennis?／What time is it?"
+    },
+    {
+        "id": "68__look",
+        "english": "Look. Please look at me. You look happy at the news. Come and take a look at this. Come and have a look at this.",
+        "japanese": "私を見てください。あなたはそのニュースを見て幸せそうに見えます。来てこれを見てください。来てこれを見てください。",
+        "jpg": "【68__look】Please look at me.／You look happy at the news.／Come and take a look at this.／Come and have a look at this."
+    },
+    {
+        "id": "69__other",
+        "english": "Other. Do you play any other sports? One half of the apple is for you, and the other for me.",
+        "japanese": "他に何かスポーツをしますか？リンゴの半分はあなたのもので、もう半分は私のものです。",
+        "jpg": "【69__other】Do you play any other sports?／One half of the apple is for you, and the other for me."
+    },
+    {
+        "id": "70__learn",
+        "english": "Learn. I want to learn karate.",
+        "japanese": "空手を習いたいです。",
+        "jpg": "【70__learn】I want to learn karate."
+    },
+    {
+        "id": "71__enjoy",
+        "english": "Enjoy! I enjoyed watching that movie.",
+        "japanese": "私はその映画を見て楽しかったです。",
+        "jpg": "【71__enjoy】I enjoyed watching that movie."
+    },
+    {
+        "id": "72__year",
+        "english": "Year. I want to go there this year. The boy is six years old.",
+        "japanese": "今年はそこに行きたいです。男の子は6歳です。",
+        "jpg": "【72__year】I want to go there this year.／The boy is six years old."
+    },
+    {
+        "id": "73__work",
+        "english": "Work. I want to work for a bank. These computers don't work. I have a lot of work today. I have the complete works of Shakespeare.",
+        "japanese": "銀行で働きたいです。これらのコンピュータは動作しません。今日は仕事がたくさんあります。私はシェイクスピアの全作品を持っています。",
+        "jpg": "【73__work】I want to work for a bank.／These computers don't work.／I have a lot of work today.／I have the complete works of Shakespeare."
+    },
+    {
+        "id": "74__get",
+        "english": "Get. I got a new bike for my birthday. She got sleepy soon. What time do you get there?",
+        "japanese": "誕生日に新しい自転車を買ってもらいました。彼女はすぐに眠くなった。何時にそこに着きますか？",
+        "jpg": "【74__get】I got a new bike for my birthday.／She got sleepy soon.／What time do you get there?"
+    },
+    {
+        "id": "75__after",
+        "english": "After. We play baseball after lunch every day. You always come home after we finish dinner. I come here on time. And you always arrive soon after.",
+        "japanese": "私たちは毎日昼食後に野球をします。あなたはいつも私たちが夕食を終えた後に帰ってきます。私は時間通りにここに来ます。そしていつもすぐに到着します。",
+        "jpg": "【75__after】We play baseball after lunch every day.／You always come home after we finish dinner.／I come here on time.／And you always arrive soon after."
+    },
+    {
+        "id": "76__also",
+        "english": "Also, He is an actor and also writes books.",
+        "japanese": "彼は俳優であり、本も書いています。",
+        "jpg": "【76__also】He is an actor and also writes books."
+    },
+    {
+        "id": "77__by",
+        "english": "By. Stand by the window, please. Many students go to school by bike. Come back by six.",
+        "japanese": "窓のそばに立ってください。多くの学生は自転車で学校に通っています。6時までに戻ってきてください。",
+        "jpg": "【77__by】Stand by the window, please.／Many students go to school by bike.／Come back by six."
+    },
+    {
+        "id": "78__then",
+        "english": "Then. Where were you then? Go straight on about a hundred meters, then turn left. Go straight on about a hundred meters and then turn left. It's raining. Then we cannot go out.",
+        "japanese": "その時どこにいたの？百メートルほど直進し、左折してください。百メートルほど直進し、左折してください。雨が降っている。そうなると外に出られなくなります。",
+        "jpg": "【78__then】Where were you then?／Go straight on about a hundred meters, then turn left.／Go straight on about a hundred meters and then turn left.／It's raining.／Then we cannot go out."
+    },
+    {
+        "id": "79__take",
+        "english": "Take. He took me by the hand. Take an umbrella with you. I'll take it.",
+        "japanese": "彼は私の手を取りました。傘を持って行きましょう。買います。",
+        "jpg": "【79__take】He took me by the hand.／Take an umbrella with you.／I'll take it."
+    },
+    {
+        "id": "80__help",
+        "english": "Help. I want to help people in need. Please help me move the table. Please help me to move the table. I need your help.",
+        "japanese": "困っている人を助けたい。テーブルを移動するのを手伝ってください。テーブルを移動するのを手伝ってください。あなたの助けが必要です。",
+        "jpg": "【80__help】I want to help people in need.／Please help me move the table.／Please help me to move the table.／I need your help."
+    },
+    {
+        "id": "81__be",
+        "english": "Be. I want to be at home this evening.",
+        "japanese": "今晩は家にいたいです。",
+        "jpg": "【81__be】I want to be at home this evening."
+    },
+    {
+        "id": "82__happy",
+        "english": "Happy. It is sunny, so I am happy. You look happy.",
+        "japanese": "晴れたので嬉しいです。幸せそうだね。",
+        "jpg": "【82__happy】It is sunny, so I am happy.／You look happy."
+    },
+    {
+        "id": "83__country",
+        "english": "Country.I want to travel all over the country. I like living in the country.",
+        "japanese": "私は国中を旅行したい。私は田舎に住むのが好きです。",
+        "jpg": "【83__country】I like living in the country."
+    },
+    {
+        "id": "84__try",
+        "english": "Try. This is good. Please try it.",
+        "japanese": "これは良いですね。ぜひお試しください。",
+        "jpg": "【84__try】This is good.／Please try it."
+    },
+    {
+        "id": "85__too",
+        "english": "Too. I want to buy a new bag too. Don't eat too much.",
+        "japanese": "新しいバッグも買いたいです。食べ過ぎないでください。",
+        "jpg": "【85__too】I want to buy a new bag too.／Don't eat too much."
+    },
+    {
+        "id": "86__visit",
+        "english": "Visit. I want to visit a friend in New York. This is my first visit to Hawaii.",
+        "japanese": "ニューヨークにいる友人に会いに行きたいです。私にとって初めてのハワイ訪問です。",
+        "jpg": "【86__visit】I want to visit a friend in New York.／This is my first visit to Hawaii."
+    },
+    {
+        "id": "87__next",
+        "english": "Next. Can you come to my house next Sunday? What do you do next?",
+        "japanese": "今度の日曜日に私の家に来てもらえますか？次に何をしますか?",
+        "jpg": "【87__next】Can you come to my house next Sunday?／What do you do next?"
+    },
+    {
+        "id": "88__study",
+        "english": "Study. I study before dinner every day. His study of movies is very good.",
+        "japanese": "私は毎日夕食前に勉強します。彼の映画の研究はとても上手です。",
+        "jpg": "【88__study】I study before dinner every day.／His study of movies is very good."
+    },
+    {
+        "id": "89__ask",
+        "english": "Ask. I want to ask him about it. Well, you want to ask me for help. May I ask you a question?",
+        "japanese": "それについて彼に聞きたいです。そうですね、私に助けを求めたいのですね。質問してもいいですか？",
+        "jpg": "【89__ask】I want to ask him about it.／Well, you want to ask me for help.／May I ask you a question?"
+    },
+    {
+        "id": "90__idea",
+        "english": "Idea. I have an idea.",
+        "japanese": "考えがあります。",
+        "jpg": "【90__idea】I have an idea."
+    },
+    {
+        "id": "91__read",
+        "english": "Read. I like reading books.",
+        "japanese": "私は本を​​読むのが好きです。",
+        "jpg": "【91__read】I like reading books."
+    },
+    {
+        "id": "92__new",
+        "english": "New. I want to buy a new video game.",
+        "japanese": "新しいテレビゲームを買いたいです。",
+        "jpg": "【92__new】I want to buy a new video game."
+    },
+    {
+        "id": "93__heart",
+        "english": "Heart. I love her from the bottom of my heart. You have a weak heart.",
+        "japanese": "私は心の底から彼女を愛しています。あなたは心臓が弱いのです。",
+        "jpg": "【93__heart】I love her from the bottom of my heart.／You have a weak heart."
+    },
+    {
+        "id": "94__give",
+        "english": "Give. Please give a sandwich to me.",
+        "japanese": "私にサンドイッチをください。",
+        "jpg": "【94__give】Please give a sandwich to me."
+    },
+    {
+        "id": "95__right",
+        "english": "Right. You can see Mount Fuji on the right hand. You're right. Turn right at the corner, please. You can see a lake on your right. We fight for the rights of women. That's right.",
+        "japanese": "右手に富士山が見えます。あなたが正しい。角を右折してください。右手に湖が見えます。私たちは女性の権利のために戦います。それは正しい。",
+        "jpg": "【95__right】You can see Mount Fuji on the right hand.／You're right.／Turn right at the corner, please.／You can see a lake on your right.／We fight for the rights of women.／That's right."
+    },
+    {
+        "id": "96__become",
+        "english": "Become. I want to become a teacher.",
+        "japanese": "私は教師になりたいです。",
+        "jpg": "【96__become】I want to become a teacher."
+    },
+    {
+        "id": "97__high",
+        "english": "High. The mountain is about 3,000 meters high. The birds fly high up in the sky.",
+        "japanese": "その山の高さは約3,000メートルです。鳥は空高く飛んでいきます。",
+        "jpg": "【97__high】The mountain is about 3,000 meters high.／The birds fly high up in the sky."
+    },
+    {
+        "id": "98__really",
+        "english": "Really? I really saw it. Please believe me.",
+        "japanese": "本当に見たよ。信じてください。",
+        "jpg": "【98__really】I really saw it.／Please believe me."
+    },
+    {
+        "id": "99__who",
+        "english": "Who. Who is your teacher?",
+        "japanese": "あなたの先生は誰ですか?",
+        "jpg": "【99__who】Who is your teacher?"
+    },
+    {
+        "id": "100__why",
+        "english": "Why? Why do you go there?",
+        "japanese": "なぜそこに行くのですか？",
+        "jpg": "【100__why】Why do you go there?"
+    },
+    {
+        "id": "101__all",
+        "english": "All. All my friends like soccer. All of my friends agree with my plan.",
+        "japanese": "私の友達はみんなサッカーが好きです。私の友達は全員私の計画に同意します。",
+        "jpg": "【101__all】All my friends like soccer.／All of my friends agree with my plan."
+    },
+    {
+        "id": "102__hear",
+        "english": "Hear.I can hear a strange sound. I hear you are from New York.",
+        "japanese": "何か変な音が聞こえる。あなたはニューヨーク出身だと聞きました。",
+        "jpg": "【102__hear】I can hear a strange sound.／I hear you are from New York."
+    },
+    {
+        "id": "103__Mr.",
+        "english": "Mr. How are you, Mr.Brown?",
+        "japanese": "ブラウンさん、調子はどうですか？",
+        "jpg": "【103__Mr.】How are you, Mr.Brown?"
+    },
+    {
+        "id": "104__show",
+        "english": "Show. Please show the pictures of your childhood to us. Please show me the way. I want to see the show on TV.",
+        "japanese": "あなたの子供の頃の写真を私たちに見せてください。道を教えてください。その番組をテレビで見たいです。",
+        "jpg": "【104__show】Please show the pictures of your childhood to us.／Please show me the way.／I want to see the show on TV."
+    },
+    {
+        "id": "105__start",
+        "english": "Start. The movie starts at 6 o'clock. Let's start the meeting.",
+        "japanese": "映画は6時に始まります。会議を始めましょう。",
+        "jpg": "【105__start】The movie starts at 6 o'clock.／Let's start the meeting."
+    },
+    {
+        "id": "106__hard",
+        "english": "Hard. This bread is hard. You often ask hard questions. We practice baseball hard.",
+        "japanese": "このパンは硬いです。あなたはよく難しい質問をします。私たちは野球を一生懸命練習します。",
+        "jpg": "【106__hard】This bread is hard.／You often ask hard questions.／We practice baseball hard."
+    },
+    {
+        "id": "107__every",
+        "english": "Every. I know the name and face of every student in my class. Buses come every 10 minutes.",
+        "japanese": "私はクラスの生徒全員の名前と顔を知っています。バスは10分ごとに来ます。",
+        "jpg": "【107__every】I know the name and face of every student in my class.／Buses come every 10 minutes."
+    },
+    {
+        "id": "108__picture",
+        "english": "Picture. I like drawing a picture. I like painting a picture. I like these pictures of the mountain.",
+        "japanese": "私は絵を描くのが好きです。私は絵を描くのが好きです。こういう山の写真が好きです。",
+        "jpg": "【108__picture】I like drawing a picture.／I like painting a picture.／I like these pictures of the mountain."
+    },
+    {
+        "id": "109__something",
+        "english": "Something. I have something for you. Do you want to drink something hot?",
+        "japanese": "あなたに渡したいものがあります。何か温かいものを飲みたいですか？",
+        "jpg": "【109__something】I have something for you.／Do you want to drink something hot?"
+    },
+    {
+        "id": "110__last",
+        "english": "Last. Can I take the last cookie? I went to Kyoto last spring. I want to eat at last.",
+        "japanese": "最後のクッキーを取ってもいいですか？去年の春に京都に行きました。やっと食べられる。",
+        "jpg": "【110__last】Can I take the last cookie?／I went to Kyoto last spring.／I want to eat at last."
+    },
+    {
+        "id": "111__way",
+        "english": "Way.Could you tell me the way to the station? You speak to people in a gentle way. Come this way, please.",
+        "japanese": "駅への行き方を教えていただけますか？あなたは人々に優しい口調で話します。こちらに来てください。",
+        "jpg": "【111__way】Could you tell me the way to the station? ／You speak to people in a gentle way.／Come this way, please."
+    },
+    {
+        "id": "112__much",
+        "english": "Much. We don't have much time. These shoes are much too big. I don't know much about the cause of the accident.",
+        "japanese": "時間があまりありません。この靴は大きすぎます。事故の原因についてはよくわかりません。",
+        "jpg": "【112__much】We don't have much time.／These shoes are much too big.／I don't know much about the cause of the accident."
+    },
+    {
+        "id": "113__eat",
+        "english": "Eat. I ate a big lunch.",
+        "japanese": "ランチをたくさん食べました。",
+        "jpg": "【113__eat】I ate a big lunch."
+    },
+    {
+        "id": "114__world",
+        "english": "World. I want to travel the world.",
+        "japanese": "世界を旅したいです。",
+        "jpg": "【114__world】I want to travel the world."
+    },
+    {
+        "id": "115__life",
+        "english": "Life. I want to save the child's life. Do you want to change your life? I want to live here all my life.",
+        "japanese": "子供の命を救いたい。人生を変えたいですか？一生ここに住みたいです。",
+        "jpg": "【115__life】I want to save the child's life.／Do you want to change your life?／I want to live here all my life."
+    },
+    {
+        "id": "116__old",
+        "english": "Old. My father's car is very old. My grandma is old but still healthy.",
+        "japanese": "私の父の車はとても古いです。私の祖母は高齢ですが、まだ健康です。",
+        "jpg": "【116__old】My father's car is very old.／My grandma is old but still healthy."
+    },
+    {
+        "id": "117__write",
+        "english": "Write. What do you write in the birthday card for her?",
+        "japanese": "彼女への誕生日カードに何を書きますか?",
+        "jpg": "【117__write】What do you write in the birthday card for her?"
+    },
+    {
+        "id": "118__understand",
+        "english": "Understand. I can understand your feelings.",
+        "japanese": "あなたの気持ちはわかります。",
+        "jpg": "【118__understand】I can understand your feelings."
+    },
+    {
+        "id": "119__place",
+        "english": "Place. Is Tokyo an exciting place for you? Don't place your bag on the table.",
+        "japanese": "東京はあなたにとって刺激的な場所ですか?カバンをテーブルの上に置かないでください。",
+        "jpg": "【119__place】Is Tokyo an exciting place for you?／Don't place your bag on the table."
+    },
+    {
+        "id": "120__kind",
+        "english": "Kind. She is a very kind and warm person. You can see many kinds of animals at the zoo.",
+        "japanese": "彼女はとても親切で温かい人です。動物園ではたくさんの種類の動物を見ることができます。",
+        "jpg": "【120__kind】She is a very kind and warm person.／You can see many kinds of animals at the zoo."
+    },
+    {
+        "id": "121__or",
+        "english": "Or. You can drink milk or apple juice. Get up or you'll be late for school.",
+        "japanese": "牛乳やリンゴジュースを飲むこともできます。起きなさい、そうでないと学校に遅刻しますよ。",
+        "jpg": "【121__or】You can drink milk or apple juice.／Get up or you'll be late for school."
+    },
+    {
+        "id": "122__class",
+        "english": "Class.I have an English class today. Some students in the class can play the piano.",
+        "japanese": "今日は英語のクラスがあります。クラスの何人かの生徒はピアノを弾くことができます。",
+        "jpg": "【122__class】Some students in the class can play the piano."
+    },
+    {
+        "id": "123__future",
+        "english": "Future. What can we do for our future? We often talk about our future dreams.",
+        "japanese": "私たちの未来のために何ができるでしょうか？私たちはよく将来の夢について話します。",
+        "jpg": "【123__future】What can we do for our future?／We often talk about our future dreams."
+    },
+    {
+        "id": "124__need",
+        "english": "Need. Do you need this book? We understand the needs for more money.",
+        "japanese": "この本は必要ですか?私たちはさらなる資金が必要であることを理解しています。",
+        "jpg": "【124__need】Do you need this book?／We understand the needs for more money."
+    },
+    {
+        "id": "125__word",
+        "english": "Word. What is the meaning of this word?",
+        "japanese": "この言葉の意味は何でしょうか？",
+        "jpg": "【125__word】What is the meaning of this word?"
+    },
+    {
+        "id": "126__city",
+        "english": "City. Do you know the history of this city well?",
+        "japanese": "この街の歴史をよく知っていますか？",
+        "jpg": "【126__city】Do you know the history of this city well?"
+    },
+    {
+        "id": "127__today",
+        "english": "Today. Today is Tuesday. It is rainy today.",
+        "japanese": "今日は火曜日です。今日は雨です。",
+        "jpg": "【127__today】Today is Tuesday.／It is rainy today."
+    },
+    {
+        "id": "128__game",
+        "english": "Game. Our team won the game.",
+        "japanese": "私たちのチームが試合に勝ちました。",
+        "jpg": "【128__game】Our team won the game."
+    },
+    {
+        "id": "129__feel",
+        "english": "Feel. I feel hungry. What do you feel about his plan? I feel (that) you need a rest.",
+        "japanese": "お腹が空いた気がします。彼の計画についてどう思いますか?あなたには休息が必要だと思います。",
+        "jpg": "【129__feel】I feel hungry.／What do you feel about his plan?／I feel (that) you need a rest."
+    },
+    {
+        "id": "130__great",
+        "english": "Great! His new book is a great success. That's great.",
+        "japanese": "彼の新しい本は大成功です。それは素晴らしいことです。",
+        "jpg": "【130__great】His new book is a great success.／That's great."
+    },
+    {
+        "id": "131__please",
+        "english": "Please. Please come in.",
+        "japanese": "どうぞお入りください。",
+        "jpg": "【131__please】Please come in."
+    },
+    {
+        "id": "132__different",
+        "english": "Different. She is a little different from other girls.",
+        "japanese": "彼女は他の女の子とは少し違う。",
+        "jpg": "【132__different】She is a little different from other girls."
+    },
+    {
+        "id": "133__here",
+        "english": "Here. Come here and have a look at this. You can see the building from here.",
+        "japanese": "ここに来て、これを見てください。ここから建物が見えます。",
+        "jpg": "【133__here】Come here and have a look at this.／You can see the building from here."
+    },
+    {
+        "id": "134__home",
+        "english": "Home. Their home is small but beautiful. Go home now. We sometimes go to her home party.",
+        "japanese": "彼らの家は小さいですが美しいです。もう家に帰りなさい。私たちは時々彼女のホームパーティーに行きます。",
+        "jpg": "【134__home】Their home is small but beautiful.／Go home now.／We sometimes go to her home party."
+    },
+    {
+        "id": "135__which",
+        "english": "Which. Which is yours? This one? Which bag do you want?",
+        "japanese": "どれがあなたのものですか？これです？どのバッグが欲しいですか？",
+        "jpg": "【135__which】Which is yours?／This one?／Which bag do you want?"
+    },
+    {
+        "id": "136__interested",
+        "english": "Interested. They have a party. Are you interested?",
+        "japanese": "彼らはパーティーを開きます。興味がありますか？",
+        "jpg": "【136__interested】They have a party.／Are you interested?"
+    },
+    {
+        "id": "137__interesting",
+        "english": "Interesting. His story is very interesting to us.",
+        "japanese": "彼の話は私たちにとってとても興味深いです。",
+        "jpg": "【137__interesting】His story is very interesting to us."
+    },
+    {
+        "id": "138__no",
+        "english": "No. We have no food now. Do you know his telephone number? No, I don't.",
+        "japanese": "今は食べ物がありません。彼の電話番号を知っていますか?いいえ、私はしません。",
+        "jpg": "【138__no】We have no food now.／Do you know his telephone number?／No, I don't."
+    },
+    {
+        "id": "139__before",
+        "english": "Before. Come back before dinner. I was there the day before. Wash your hands before you eat.",
+        "japanese": "夕食前に戻ってきてください。前日もそこにいました。食べる前に手を洗ってください。",
+        "jpg": "【139__before】Come back before dinner.／I was there the day before.／Wash your hands before you eat."
+    },
+    {
+        "id": "140__each",
+        "english": "Each. I have a bag in each hand. I give a present to each of her children.",
+        "japanese": "私は両手にカバンを持っています。私は彼女の子供たち一人一人にプレゼントをあげます。",
+        "jpg": "【140__each】I have a bag in each hand.／I give a present to each of her children."
+    },
+    {
+        "id": "141__together",
+        "english": "Together. We want to travel together.",
+        "japanese": "一緒に旅行したいです。",
+        "jpg": "【141__together】We want to travel together."
+    },
+    {
+        "id": "142__beautiful",
+        "english": "Beautiful. You look beautiful in that dress.",
+        "japanese": "あなたはそのドレスを着ると美しく見えます。",
+        "jpg": "【142__beautiful】You look beautiful in that dress."
+    },
+    {
+        "id": "143__join",
+        "english": "Join. I want to join the English speech contest.",
+        "japanese": "英語スピーチコンテストに参加したいです。",
+        "jpg": "【143__join】I want to join the English speech contest."
+    },
+    {
+        "id": "144__practice",
+        "english": "Practice. I practice the guitar every day. You need a little more practice.",
+        "japanese": "私は毎日ギターを練習します。もう少し練習が必要です。",
+        "jpg": "【144__practice】I practice the guitar every day.／You need a little more practice."
+    },
+    {
+        "id": "145__answer",
+        "english": "Answer. Please answer my questions. Do you know the answer to the question?",
+        "japanese": "私の質問に答えてください。質問の答えを知っていますか?",
+        "jpg": "【145__answer】Please answer my questions.／Do you know the answer to the question?"
+    },
+    {
+        "id": "146__only",
+        "english": "Only. This is my only son. I play soccer only on weekends.",
+        "japanese": "これは私の一人息子です。私は週末だけサッカーをします。",
+        "jpg": "【146__only】This is my only son.／I play soccer only on weekends."
+    },
+    {
+        "id": "147__example",
+        "english": "Example.Please give an example of his honesty.",
+        "japanese": "彼の誠実さを示す例を挙げてください。",
+        "jpg": "【147__example】Please give an example of his honesty."
+    },
+    {
+        "id": "148__these",
+        "english": "These. These are my shoes. What is the difference between these two?",
+        "japanese": "これらは私の靴です。これら 2 つの違いは何ですか?",
+        "jpg": "【148__these】These are my shoes.／What is the difference between these two?"
+    },
+    {
+        "id": "149__around",
+        "english": "Around. Let's run around the playground. We eat dinner around 7 o'clock. The lake is 10 miles around.",
+        "japanese": "遊び場を走り回ってみましょう。私たちは7時頃に夕食を食べます。湖は周囲16マイルです。",
+        "jpg": "【149__around】Let's run around the playground.／We eat dinner around 7 o'clock.／The lake is 10 miles around."
+    },
+    {
+        "id": "150__hope",
+        "english": "Hope. I hope you like this. I hope that you like this. All of them have many hopes and dreams. I hope so.",
+        "japanese": "気に入っていただければ幸いです。気に入っていただければ幸いです。彼らは皆、たくさんの希望と夢を持っています。そうだといい。",
+        "jpg": "【150__hope】I hope you like this.／I hope that you like this.／All of them have many hopes and dreams.／I hope so."
+    },
+    {
+        "id": "151__speak",
+        "english": "Speak. Can you really speak three languages?",
+        "japanese": "本当に3か国語を話すことができますか？",
+        "jpg": "【151__speak】Can you really speak three languages?"
+    },
+    {
+        "id": "152__problem",
+        "english": "Problem. How can we find the answer to the problem? No problem.",
+        "japanese": "どうすれば問題の答えを見つけられるでしょうか?問題ない。",
+        "jpg": "【152__problem】How can we find the answer to the problem?／No problem."
+    },
+    {
+        "id": "153__OK",
+        "english": "OK.  Let's go to the movies today. OK. What time?",
+        "japanese": "今日は映画に行きましょう。わかりました。何時？",
+        "jpg": "【153__OK】Let's go to the movies today.／OK.／What time?"
+    },
+    {
+        "id": "154__festival",
+        "english": "Festival. We have a summer festival in the park.",
+        "japanese": "私たちは公園で夏祭りを開催します。",
+        "jpg": "【154__festival】We have a summer festival in the park."
+    },
+    {
+        "id": "155__week",
+        "english": "Week. I am very busy this week.",
+        "japanese": "今週はとても忙しいです。",
+        "jpg": "【155__week】I am very busy this week."
+    },
+    {
+        "id": "156__big",
+        "english": "Big. These shoes are too big for me.",
+        "japanese": "この靴は私には大きすぎます。",
+        "jpg": "【156__big】These shoes are too big for me."
+    },
+    {
+        "id": "157__could",
+        "english": "Could. I could not meet him.",
+        "japanese": "彼には会えなかった。",
+        "jpg": "【157__could】I could not meet him."
+    },
+    {
+        "id": "158__often",
+        "english": "Often. I often see him at the station.",
+        "japanese": "私は駅で彼をよく見かけます。",
+        "jpg": "【158__often】I often see him at the station."
+    },
+    {
+        "id": "159__taste",
+        "english": "Taste. These apples taste good. These fruits have a sweet taste.",
+        "japanese": "これらのリンゴはおいしいです。これらの果物は甘い味がします。",
+        "jpg": "【159__taste】These apples taste good.／These fruits have a sweet taste."
+    },
+    {
+        "id": "160__clean",
+        "english": "Clean. Are your hands clean? I clean my room once a week.",
+        "japanese": "あなたの手はきれいですか？私は週に一度部屋を掃除します。",
+        "jpg": "【160__clean】Are your hands clean?／I clean my room once a week."
+    },
+    {
+        "id": "161__mean",
+        "english": "Mean.What does this word mean?",
+        "japanese": "この単語はどういう意味ですか？",
+        "jpg": "【161__mean】What does this word mean?"
+    },
+    {
+        "id": "162__always",
+        "english": "Always. The sun always rises in the east and sets in the west.",
+        "japanese": "太陽は常に東から昇り、西に沈みます。",
+        "jpg": "【162__always】The sun always rises in the east and sets in the west."
+    },
+    {
+        "id": "163__difficult",
+        "english": "Difficult. The job is very difficult for me. It is difficult for her to get up early.",
+        "japanese": "その仕事は私にとってとても難しいです。彼女は早く起きるのが難しい。",
+        "jpg": "【163__difficult】The job is very difficult for me.／It is difficult for her to get up early."
+    },
+    {
+        "id": "164__job",
+        "english": "Job. What kind of job do you want to do in the future?",
+        "japanese": "将来はどんな仕事をしたいですか？",
+        "jpg": "【164__job】What kind of job do you want to do in the future?"
+    },
+    {
+        "id": "165__sure",
+        "english": "Sure. Do you want to come with me? Sure. He is sure to come.",
+        "japanese": "私と一緒に来ますか？もちろん。彼は必ず来ます。",
+        "jpg": "【165__sure】Do you want to come with me?／Sure.／He is sure to come."
+    },
+    {
+        "id": "166__later",
+        "english": "Later. Please call me later.",
+        "japanese": "後で電話してください。",
+        "jpg": "【166__later】Please call me later."
+    },
+    {
+        "id": "167__month",
+        "english": "Month. I visit my grandparents every month. I visit my grandparents once a month.",
+        "japanese": "私は毎月祖父母を訪問します。私は月に一度祖父母を訪ねます。",
+        "jpg": "【167__month】I visit my grandparents every month.／I visit my grandparents once a month."
+    },
+    {
+        "id": "168__buy",
+        "english": "buy. I want to buy a t-shirt.",
+        "japanese": "Tシャツを買いたいです。",
+        "jpg": "【168__buy】I want to buy a t-shirt."
+    },
+    {
+        "id": "169__long",
+        "english": "Long. The bridge is 3 kilometers long. Does it take long? So long.",
+        "japanese": "橋の長さは3キロメートルです。時間がかかりますか？さよなら。",
+        "jpg": "【169__long】The bridge is 3 kilometers long.／Does it take long?／So long."
+    },
+    {
+        "id": "170__Ms.",
+        "english": "Ms. Hello Ms.Smith, how are you?",
+        "japanese": "こんにちは、スミスさん、お元気ですか？",
+        "jpg": "【170__Ms.】Hello Ms.Smith, how are you?"
+    },
+    {
+        "id": "171__watch",
+        "english": "Watch. We like to watch baseball on TV. I want to buy a new watch.",
+        "japanese": "私たちはテレビで野球を見るのが好きです。新しい時計を買いたいです。",
+        "jpg": "【171__watch】We like to watch baseball on TV.／I want to buy a new watch."
+    },
+    {
+        "id": "172__hi",
+        "english": "Hi. Yeah. Hi, how are you?",
+        "japanese": "こんにちは、元気ですか？",
+        "jpg": "【172__hi】Hi, how are you?"
+    },
+    {
+        "id": "173__meet",
+        "english": "Meet. They are. Let's meet at three on Friday next week. Nice to meet you.",
+        "japanese": "彼らです。来週の金曜日の３時に会いましょう。はじめまして。",
+        "jpg": "【173__meet】They are.／Let's meet at three on Friday next week.／Nice to meet you."
+    },
+    {
+        "id": "174__everyone",
+        "english": "Everyone. Everyone knows that. Not everyone can succeed.",
+        "japanese": "それは誰もが知っています。誰もが成功できるわけではありません。",
+        "jpg": "【174__everyone】Everyone knows that.／Not everyone can succeed."
+    },
+    {
+        "id": "175__smile",
+        "english": "Smile. You have a beautiful smile. She smiles at everyone.",
+        "japanese": "笑顔が素敵ですね。彼女は誰にでも微笑みかけます。",
+        "jpg": "【175__smile】You have a beautiful smile.／She smiles at everyone."
+    },
+    {
+        "id": "176__call",
+        "english": "Call. Please call me tonight. I sometimes call to him for help. Call me Tim. I get a phone call from him every day.",
+        "japanese": "今夜電話してください。私は時々彼に助けを求めます。ティムと呼んでください。彼から毎日電話がかかってきます。",
+        "jpg": "【176__call】Please call me tonight.／I sometimes call to him for help.／Call me Tim.／I get a phone call from him every day."
+    },
+    {
+        "id": "177__stay",
+        "english": "Stay. How many days do you want to stay? He stays active in his old age. During my stay in London, I want to visit the British Museum.",
+        "japanese": "何日間滞在したいですか？彼は高齢になっても活動を続けている。ロンドン滞在中に大英博物館を訪れたいと思っています。",
+        "jpg": "【177__stay】How many days do you want to stay?／He stays active in his old age.／During my stay in London, I want to visit the British Museum."
+    },
+    {
+        "id": "178__walk",
+        "english": "Walk. I can't walk anymore. It is about a 10 minute walk from here.",
+        "japanese": "もう歩けない。ここからは徒歩約10分です。",
+        "jpg": "【178__walk】I can't walk anymore.／It is about a 10 minute walk from here."
+    },
+    {
+        "id": "179__club",
+        "english": "Club.  What club do you want to join?",
+        "japanese": "どのクラブに入りたいですか?",
+        "jpg": "【179__club】What club do you want to join?"
+    },
+    {
+        "id": "180__up",
+        "english": "Up. We see a plane high up in the sky. Let's go up the stairs.",
+        "japanese": "空高くに飛行機が見えます。階段を上ってみましょう。",
+        "jpg": "【180__up】We see a plane high up in the sky.／Let's go up the stairs."
+    },
+    {
+        "id": "181__morning",
+        "english": "Morning. I get up early in the morning. Good morning.",
+        "japanese": "私は朝早く起きます。おはよう。",
+        "jpg": "【181__morning】I get up early in the morning.／Good morning."
+    },
+    {
+        "id": "182__teach",
+        "english": "Teach. He is teaching at this school. He is teaching history at this school.",
+        "japanese": "彼はこの学校で教えています。彼はこの学校で歴史を教えています。",
+        "jpg": "【182__teach】He is teaching at this school.／He is teaching history at this school."
+    },
+    {
+        "id": "183__popular",
+        "english": "Popular 人気のある。 The game is very popular with young people. The game is very popular among young people.",
+        "japanese": "そのゲームは若者の間でとても人気があります。",
+        "jpg": "【183__popular】The game is very popular among young people."
+    },
+    {
+        "id": "184__question",
+        "english": "Question. Can I ask you some questions? What do you think of the question of global warming?",
+        "japanese": "いくつか質問してもいいですか？地球温暖化の問題についてどう思いますか?",
+        "jpg": "【184__question】Can I ask you some questions?／What do you think of the question of global warming?"
+    },
+    {
+        "id": "185__any",
+        "english": "Any. Do you have any pets? I don't have any money with me now. You can come to me anytime.",
+        "japanese": "ペットを飼っていますか?今はお金を持っていません。いつでも私のところに来てください。",
+        "jpg": "【185__any】Do you have any pets?／I don't have any money with me now.／You can come to me anytime."
+    },
+    {
+        "id": "186__small",
+        "english": "Small. I live in a small town.",
+        "japanese": "私は小さな町に住んでいます。",
+        "jpg": "【186__small】I live in a small town."
+    },
+    {
+        "id": "187__during",
+        "english": "During. I want to be abroad during the summer. I went to Disneyland during my stay in Los Angeles.",
+        "japanese": "夏の間は海外に行きたいです。ロサンゼルス滞在中にディズニーランドに行きました。",
+        "jpg": "【187__during】I want to be abroad during the summer.／I went to Disneyland during my stay in Los Angeles."
+    },
+    {
+        "id": "188__nice",
+        "english": "Nice. Thank you for the nice present. They are really nice people. Have a nice day. That's nice.",
+        "japanese": "素敵なプレゼントをありがとうございました。本当にいい人たちです。良い１日を。それはすばらしい。",
+        "jpg": "【188__nice】Thank you for the nice present.／They are really nice people.／Have a nice day.／That's nice."
+    },
+    {
+        "id": "189__near",
+        "english": "Near. He lives near here. Don't come near her. Don't come near to me. The hotel is near to the station.",
+        "japanese": "彼はこの近くに住んでいます。彼女に近づかないでください。私に近づかないでください。ホテルは駅の近くにあります。",
+        "jpg": "【189__near】He lives near here.／Don't come near her.／Don't come near to me.／The hotel is near to the station."
+    },
+    {
+        "id": "190__late",
+        "english": "Late. I am late for school again. Don't come home late at night. I'm sorry I'm late.",
+        "japanese": "また学校に遅刻してしまいました。夜遅くに帰宅しないでください。遅くなってごめんなさい。",
+        "jpg": "【190__late】I am late for school again.／Don't come home late at night.／I'm sorry I'm late."
+    },
+    {
+        "id": "191__keep",
+        "english": "Keep. You can keep these pugs. Keep calm.",
+        "japanese": "これらのパグを飼うことができます。冷静さを保つ。",
+        "jpg": "【191__keep】You can keep these pugs.／Keep calm."
+    },
+    {
+        "id": "192__same",
+        "english": "Same. We go to the same school. And are in the same class.",
+        "japanese": "私たちは同じ学校に通っています。そして同じクラスです。",
+        "jpg": "【192__same】We go to the same school.／And are in the same class."
+    },
+    {
+        "id": "193__back",
+        "english": "Back. Please write down your address on the back of the card. Come back by six o'clock. Please open the back door.",
+        "japanese": "カード裏面に住所をご記入ください。6時までに戻ってきてください。後ろのドアを開けてください。",
+        "jpg": "【193__back】Please write down your address on the back of the card.／Come back by six o'clock.／Please open the back door."
+    },
+    {
+        "id": "194__sometimes",
+        "english": "Sometimes. Sometimes I take the bus to school.",
+        "japanese": "時々私はバスに乗って学校に行きます。",
+        "jpg": "【194__sometimes】Sometimes I take the bus to school."
+    },
+    {
+        "id": "195__love",
+        "english": "Love. She loves music. Love is everything to her. I'd love to.",
+        "japanese": "彼女は音楽が大好きです。彼女にとって愛がすべてだ。私はしたいです。",
+        "jpg": "【195__love】She loves music.／Love is everything to her.／I'd love to."
+    },
+    {
+        "id": "196__event",
+        "english": "Event. This is one of the big events for me.",
+        "japanese": "これは私にとって大きな出来事の一つです。",
+        "jpg": "【196__event】This is one of the big events for me."
+    },
+    {
+        "id": "197__change",
+        "english": "Change. Can we change our way of life? Winter always changes into spring. Let's talk about the climate change.",
+        "japanese": "私たちの生き方を変えることはできるでしょうか？冬は必ず春に変わります。気候変動について話しましょう。",
+        "jpg": "【197__change】Can we change our way of life?／Winter always changes into spring.／Let's talk about the climate change."
+    },
+    {
+        "id": "198__night",
+        "english": "Night.Don't call me late at night. Good night.",
+        "japanese": "夜遅くに電話しないでください。おやすみなさい。",
+        "jpg": "【198__night】Don't call me late at night. Good night."
+    },
+    {
+        "id": "199__ago",
+        "english": "Ago. I saw him at the station an hour ago.",
+        "japanese": "1時間前に駅で彼に会った。",
+        "jpg": "【199__ago】I saw him at the station an hour ago."
+    },
+    {
+        "id": "200__course",
+        "english": "Course. Can we change the course of history? I want to take a course in design.",
+        "japanese": "私たちは歴史の流れを変えることができるでしょうか？デザインのコースを受講したいです。",
+        "jpg": "【200__course】Can we change the course of history?／I want to take a course in design."
+    },
+    {
+        "id": "201__lunch",
+        "english": "Lunch. What's for lunch?",
+        "japanese": "昼食は何ですか？",
+        "jpg": "【201__lunch】What's for lunch?"
+    },
+    {
+        "id": "202__second",
+        "english": "Second. My birthday is on the 2nd of September. Now, wait for 30 seconds. This is my second time in New York.",
+        "japanese": "私の誕生日は9月2日です。30 秒ほど待ちます。ニューヨークに来るのはこれで2回目です。",
+        "jpg": "【202__second】My birthday is on the 2nd of September.／Now, wait for 30 seconds.／This is my second time in New York."
+    },
+    {
+        "id": "203__run",
+        "english": "Run. I often run in the park. She runs two restaurants.",
+        "japanese": "私はよく公園で走ります。彼女はレストランを 2 軒経営しています。",
+        "jpg": "【203__run】I often run in the park.／She runs two restaurants."
+    },
+    {
+        "id": "204__listen",
+        "english": "Listen. Please listen carefully.",
+        "japanese": "よく聞いてください。",
+        "jpg": "【204__listen】Please listen carefully."
+    },
+    {
+        "id": "205__number",
+        "english": "Number. Do you have your own ID number?",
+        "japanese": "あなたは自分の識別番号を持っていますか？",
+        "jpg": "【205__number】Do you have your own ID number?"
+    },
+    {
+        "id": "206__library",
+        "english": "Library. I often go to the library.",
+        "japanese": "私はよく図書館に行きます。",
+        "jpg": "【206__library】 I often go to the library."
+    },
+    {
+        "id": "207__volunteer",
+        "english": "Volunteer. I want to work as a volunteer for the children.",
+        "japanese": "ボランティア 子どもたちのためにボランティアとして働きたいです。",
+        "jpg": "【207__volunteer】Volunteer I want to work as a volunteer for the children."
+    },
+    {
+        "id": "208__easy",
+        "english": "Easy. Your question is easy. Take it easy.",
+        "japanese": "あなたの質問は簡単です。落ち着いて。",
+        "jpg": "【208__easy】Your question is easy.／Take it easy."
+    },
+    {
+        "id": "209__where",
+        "english": "Where? Where do you go?",
+        "japanese": "どこに行きますか？",
+        "jpg": "【209__where】Where do you go?"
+    },
+    {
+        "id": "210__another",
+        "english": "Another. Can I have another piece of cake? Let's talk about it another time. Let's talk about it at another time. Buy two and get another free.",
+        "japanese": "もう一個ケーキを食べてもいいですか？それについてはまた別の機会に話しましょう。それについてはまた別の機会に話しましょう。2 つ購入すると、もう 1 つ無料になります。",
+        "jpg": "【210__another】Can I have another piece of cake?／Let's talk about it another time.／Let's talk about it at another time.／Buy two and get another free."
+    },
+    {
+        "id": "211__classmate",
+        "english": "Classmate. We are classmates.",
+        "japanese": "私たちはクラスメートです。",
+        "jpg": "【211__classmate】We are classmates."
+    },
+    {
+        "id": "212__just",
+        "english": "Just. You look just like your mother. It's just after three o'clock. It's just a joke.",
+        "japanese": "あなたはお母さんにそっくりですね。午後３時過ぎです。それはただの冗談です。",
+        "jpg": "【212__just】You look just like your mother.／It's just after three o'clock.／It's just a joke."
+    },
+    {
+        "id": "213__man",
+        "english": "Man. Do you know the man?",
+        "japanese": "その男を知っていますか？",
+        "jpg": "【213__man】Do you know the man?"
+    },
+    {
+        "id": "214__send",
+        "english": "Send. I often send an email to her.",
+        "japanese": "私はよく彼女にメールを送ります。",
+        "jpg": "【214__send】I often send an email to her."
+    },
+    {
+        "id": "215__woman",
+        "english": "Woman.I know the woman with long hair.",
+        "japanese": "長い髪の女性を知っています。",
+        "jpg": "【215__woman】I know the woman with long hair."
+    },
+    {
+        "id": "216__cook",
+        "english": "Cook. Do you sometimes cook dinner for your family? Cock 料理をする人 He is a good cook.",
+        "japanese": "あなたは時々家族のために夕食を作りますか。Cock 料理をする人 彼は料理が上手です。",
+        "jpg": "【216__cook】Do you sometimes cook dinner for your family?／Cock 料理をする人 He is a good cook."
+    },
+    {
+        "id": "217__activity",
+        "english": "Activity. Do you enjoy your club activity?",
+        "japanese": "クラブ活動は楽しいですか？",
+        "jpg": "【217__activity】Do you enjoy your club activity?"
+    },
+    {
+        "id": "218__Internet",
+        "english": "Internet. Internet. Do you often use the Internet?",
+        "japanese": "インターネット。あなたはインターネットをよく使いますか?",
+        "jpg": "【218__Internet】Internet.／Do you often use the Internet?"
+    },
+    {
+        "id": "219__live",
+        "english": "Live. Where do you live now?",
+        "japanese": "あなたは今どこに住んでいますか？",
+        "jpg": "【219__live】Where do you live now?"
+    },
+    {
+        "id": "220__little",
+        "english": "Little. Who is the little boy? I drink a little milk every day. I have little money on me now. I sleep very little these days.",
+        "japanese": "小さな男の子は誰ですか?私は毎日少しずつ牛乳を飲みます。今私にはほとんどお金がありません。最近は睡眠時間がほとんどありません。",
+        "jpg": "【220__little】Who is the little boy?／I drink a little milk every day.／I have little money on me now.／I sleep very little these days."
+    },
+    {
+        "id": "221__sound",
+        "english": "Sound. I heard a strange sound in the kitchen. This sounds impossible, but we can do it.",
+        "japanese": "キッチンで変な音が聞こえました。これは不可能に思えますが、私たちにはできます。",
+        "jpg": "【221__sound】I heard a strange sound in the kitchen.／This sounds impossible, but we can do it."
+    },
+    {
+        "id": "222__tea",
+        "english": "Tea. Do you like tea?",
+        "japanese": "お茶は好きですか？",
+        "jpg": "【222__tea】Do you like tea?"
+    },
+    {
+        "id": "223__special",
+        "english": "Special. She is a special person for him.",
+        "japanese": "彼女は彼にとって特別な人です。",
+        "jpg": "【223__special】She is a special person for him."
+    },
+    {
+        "id": "224__win",
+        "english": "Win. We want to win the game. Who won first prize? Who won the first prize?",
+        "japanese": "私たちは試合に勝ちたいと思っています。一等賞を獲得したのは誰ですか?一等賞を獲得したのは誰ですか?",
+        "jpg": "【224__win】We want to win the game.／Who won first prize?／Who won the first prize?"
+    },
+    {
+        "id": "225__usually",
+        "english": "Usually. I usually go to bed at 11.",
+        "japanese": "私はいつも11時に寝ます。",
+        "jpg": "【225__usually】I usually go to bed at 11."
+    },
+    {
+        "id": "226__bring",
+        "english": "Bring. Do you bring your smartphone to school?",
+        "japanese": "学校にスマホを持っていきますか？",
+        "jpg": "【226__bring】Do you bring your smartphone to school?"
+    },
+    {
+        "id": "227__useful",
+        "english": "Useful. The internet is useful to us.",
+        "japanese": "インターネットは私たちにとって便利です。",
+        "jpg": "【227__useful】The internet is useful to us."
+    },
+    {
+        "id": "228__information",
+        "english": "Information. We can find good information on the internet.",
+        "japanese": "インターネットで良い情報を見つけることができます。",
+        "jpg": "【228__information】We can find good information on the internet."
+    },
+    {
+        "id": "229__soon",
+        "english": "Soon. Please be here soon.",
+        "japanese": "すぐに来てください。",
+        "jpg": "【229__soon】Please be here soon."
+    },
+    {
+        "id": "230__famous",
+        "english": "Famous. This restaurant is very famous.",
+        "japanese": "このレストランはとても有名です。",
+        "jpg": "【230__famous】This restaurant is very famous."
+    },
+    {
+        "id": "231__part",
+        "english": "Part. This is part of your job. I want to play an important part.",
+        "japanese": "これはあなたの仕事の一部です。重要な役割を果たしたいと思っています。",
+        "jpg": "【231__part】This is part of your job.／I want to play an important part."
+    },
+    {
+        "id": "232__player",
+        "english": "Player. She is one of the top tennis players. Do you know this piano player?",
+        "japanese": "彼女はトップテニス選手の一人です。このピアノ奏者を知っていますか？",
+        "jpg": "【232__player】She is one of the top tennis players.／Do you know this piano player?"
+    },
+    {
+        "id": "233__trip",
+        "english": "Trip. Let's take a trip to Hokkaido.",
+        "japanese": "北海道へ旅行に行きましょう。",
+        "jpg": "【233__trip】Let's take a trip to Hokkaido."
+    },
+    {
+        "id": "234__those",
+        "english": "Those. How much are those pens? These are my shoes and those are yours.",
+        "japanese": "それらのペンはいくらですか?これは私の靴で、あれはあなたのものです。",
+        "jpg": "【234__those】How much are those pens?／These are my shoes and those are yours."
+    },
+    {
+        "id": "235__still",
+        "english": "Still. Do you still live there? Careful people can still have an accident.",
+        "japanese": "まだそこに住んでいますか？注意深い人でも事故に遭う可能性はあります。",
+        "jpg": "【235__still】Do you still live there?／Careful people can still have an accident."
+    },
+    {
+        "id": "236__sad",
+        "english": "Sad. You look sad.",
+        "japanese": "悲しそうだね。",
+        "jpg": "【236__sad】You look sad."
+    },
+    {
+        "id": "237__car",
+        "english": "Car. I go to work by car.",
+        "japanese": "私は車で仕事に行きます。",
+        "jpg": "【237__car】I go to work by car."
+    },
+    {
+        "id": "238__animal",
+        "english": "Animal hope. How many animals in the zoo do you know?",
+        "japanese": "あなたは動物園で動物を何匹知っていますか?",
+        "jpg": "【238__animal】How many animals in the zoo do you know?"
+    },
+    {
+        "id": "239__favorite",
+        "english": "Favorite. Blue is my favorite color. This cup is my favorite.",
+        "japanese": "青は私の好きな色です。このカップは私のお気に入りです。",
+        "jpg": "【239__favorite】Blue is my favorite color.／This cup is my favorite."
+    },
+    {
+        "id": "240__put",
+        "english": "Put. Don't put your clothes on your bed.",
+        "japanese": "ベッドの上に服を置かないでください。",
+        "jpg": "【240__put】Don't put your clothes on your bed."
+    },
+    {
+        "id": "241__care",
+        "english": "Care 1世話介護注意 She is busy with childcare. We all care about our appearance.",
+        "japanese": "私たちは皆、自分の外見を気にします。",
+        "jpg": "【241__care】We all care about our appearance."
+    },
+    {
+        "id": "242__choose",
+        "english": "Choose. We want to choose her as the team manager.",
+        "japanese": "私たちは彼女をチームマネージャーに選びたいと思っています。",
+        "jpg": "【242__choose】We want to choose her as the team manager."
+    },
+    {
+        "id": "243__minute",
+        "english": "Minute. Wait there for 10 minutes. Wait a minute.",
+        "japanese": "そこで10分間待ちます。ちょっと待って。",
+        "jpg": "【243__minute】Wait there for 10 minutes.／Wait a minute."
+    },
+    {
+        "id": "244__worry",
+        "english": "Worry. Don't worry.",
+        "japanese": "心配しないで。",
+        "jpg": "【244__worry】Don't worry."
+    },
+    {
+        "id": "245__wow",
+        "english": "Wow. Wow, it looks delicious.",
+        "japanese": "うわー、美味しそうですね。",
+        "jpg": "【245__wow】Wow, it looks delicious."
+    },
+    {
+        "id": "246__sorry",
+        "english": "Sorry. I'm sorry I'm late. I'm sorry to be late. I'm sorry to hear you're sick in bed.",
+        "japanese": "遅くなってごめんなさい。遅くなってごめんなさい。あなたが病気で寝ていると聞いて残念です。",
+        "jpg": "【246__sorry】I'm sorry I'm late.／I'm sorry to be late.／I'm sorry to hear you're sick in bed."
+    },
+    {
+        "id": "247__fun",
+        "english": "My job is difficult but it is great fun. My job is difficult but it is a lot of fun.",
+        "japanese": "私の仕事は難しいですが、とても楽しいです。",
+        "jpg": "【247__fun】My job is difficult but it is a lot of fun."
+    },
+    {
+        "id": "248__language",
+        "english": "Language. I speak three languages.",
+        "japanese": "私は 3 か国語を話します。",
+        "jpg": "【248__language】I speak three languages."
+    },
+    {
+        "id": "249__sleep",
+        "english": "Sleep. I usually sleep well. I am tired, so I want to get some sleep.",
+        "japanese": "私は普段よく眠っています。疲れているので少し寝たいです。",
+        "jpg": "【249__sleep】I usually sleep well.／I am tired, so I want to get some sleep."
+    },
+    {
+        "id": "250__light",
+        "english": "Light. I keep away from strong light in the summer. Turn on the light. Turn off the light. It is still light out. Your bag is light.",
+        "japanese": "夏は強い光を避けます。ライトをつけてください。明かりを消す。まだ明るいです。あなたのカバンは軽いです。",
+        "jpg": "【250__light】I keep away from strong light in the summer.／Turn on the light.／Turn off the light.／It is still light out.／Your bag is light."
+    },
+    {
+        "id": "251__vegetable",
+        "english": "Vegetable. Eat more vegetables for your health.",
+        "japanese": "健康のためにもっと野菜を食べましょう。",
+        "jpg": "【251__vegetable】Eat more vegetables for your health."
+    },
+    {
+        "id": "252__wait",
+        "english": "Wait. Please wait in front of the movie theater.",
+        "japanese": "映画館の前でお待ちください。",
+        "jpg": "【252__wait】Please wait in front of the movie theater."
+    },
+    {
+        "id": "253__anything",
+        "english": "Anything. Do you buy anything at the store? Don't do anything dangerous. You can do anything.",
+        "japanese": "その店で何か買いますか？危険なことはしないでください。何でもできます。",
+        "jpg": "【253__anything】Do you buy anything at the store?／Don't do anything dangerous.／You can do anything."
+    },
+    {
+        "id": "254__yesterday",
+        "english": "Yesterday. How is yesterday's game? I went to the movies yesterday.",
+        "japanese": "昨日の試合はどうでしたか？昨日映画に行きました。",
+        "jpg": "【254__yesterday】How is yesterday's game?／I went to the movies yesterday."
+    },
+    {
+        "id": "255__fish",
+        "english": "Fish 魚 You can see many small fish in the river. I like to fish in the sea.",
+        "japanese": "私は海で釣りをするのが好きです。",
+        "jpg": "【255__fish】I like to fish in the sea."
+    },
+    {
+        "id": "256__front",
+        "english": "Front. Please come to the front. A lot of people are at the front door.",
+        "japanese": "前までお越しください。正面玄関にはたくさんの人がいます。",
+        "jpg": "【256__front】Please come to the front.／A lot of people are at the front door."
+    },
+    {
+        "id": "257__drink",
+        "english": "Drink. What do you want to drink? Do you have cold drinks?",
+        "japanese": "何を飲みたいですか？冷たい飲み物はありますか？",
+        "jpg": "【257__drink】What do you want to drink?／Do you have cold drinks?"
+    },
+    {
+        "id": "258__hour",
+        "english": "Hour. Please be back in an hour.",
+        "japanese": "1時間以内に戻ってきてください。",
+        "jpg": "【258__hour】Please be back in an hour."
+    },
+    {
+        "id": "259__travel",
+        "english": "Travel. She wants to travel abroad in the future. Do you like air travel?",
+        "japanese": "彼女は将来海外旅行に行きたいと思っています。空の旅は好きですか？",
+        "jpg": "【259__travel】She wants to travel abroad in the future.／Do you like air travel?"
+    },
+    {
+        "id": "260__sing",
+        "english": "Sing. We often sing songs.",
+        "japanese": "私たちはよく歌を歌います。",
+        "jpg": "【260__sing】We often sing songs."
+    },
+    {
+        "id": "261__movie",
+        "english": "Movie. Let's go to the movies on Sunday.",
+        "japanese": "日曜日に映画に行きましょう。",
+        "jpg": "【261__movie】Let's go to the movies on Sunday."
+    },
+    {
+        "id": "262__vacation",
+        "english": "Vacation. They went to Spain on vacation.",
+        "japanese": "彼らは休暇でスペインに行きました。",
+        "jpg": "【262__vacation】They went to Spain on vacation."
+    },
+    {
+        "id": "263__dance",
+        "english": "Dance. I like dancing to the muse hook. Please show us some traditional dances.",
+        "japanese": "ミューズのフックに合わせて踊るのが好きです。伝統的な踊りをいくつか見せてください。",
+        "jpg": "【263__dance】I like dancing to the muse hook.／Please show us some traditional dances."
+    },
+    {
+        "id": "264__dinner",
+        "english": "Dinner. What's for dinner, Mom?",
+        "japanese": "お母さん、夕食は何ですか？",
+        "jpg": "【264__dinner】What's for dinner, Mom?"
+    },
+    {
+        "id": "265__rice",
+        "english": "Rice. Can you boil rice?",
+        "japanese": "ご飯を炊いてもらえますか？",
+        "jpg": "【265__rice】Can you boil rice?"
+    },
+    {
+        "id": "266__out",
+        "english": "Out. I don't go out alone at night.",
+        "japanese": "私は夜に一人で外出しません。",
+        "jpg": "【266__out】I don't go out alone at night."
+    },
+    {
+        "id": "267__plan",
+        "english": "Plan. What's your plan for the vacation? I'm planning a trip to Hokkaido. I'm planning to go on a trip to Hokkaido.",
+        "japanese": "休暇の計画は何ですか?北海道への旅行を計画しています。北海道へ旅行に行く予定です。",
+        "jpg": "【267__plan】What's your plan for the vacation?／I'm planning a trip to Hokkaido.／I'm planning to go on a trip to Hokkaido."
+    },
+    {
+        "id": "268__hand",
+        "english": "Hand. Wash your hands clean.",
+        "japanese": "手をきれいに洗ってください。",
+        "jpg": "【268__hand】Wash your hands clean."
+    },
+    {
+        "id": "269__history",
+        "english": "History. My brother studies history at college.",
+        "japanese": "私の兄（弟）は大学で歴史を学んでいます。",
+        "jpg": "【269__history】My brother studies history at college."
+    },
+    {
+        "id": "270__wear",
+        "english": "Wear. She likes to wear black clothes.",
+        "japanese": "彼女は黒い服を着るのが好きです。",
+        "jpg": "【270__wear】She likes to wear black clothes."
+    },
+    {
+        "id": "271__song",
+        "english": "Song.Let's sing a song together.",
+        "japanese": "一緒に歌を歌いましょう。",
+        "jpg": "【271__song】Let's sing a song together."
+    },
+    {
+        "id": "272__excited",
+        "english": "Excited. I am excited to get an email from her.",
+        "japanese": "彼女からメールを受け取るのが楽しみです。",
+        "jpg": "【272__excited】I am excited to get an email from her."
+    },
+    {
+        "id": "273__paper",
+        "english": "Paper. Do you need a pen and paper? Do you need a pen and some paper? Where is today's paper? I see a lot of papers on his desk.",
+        "japanese": "ペンと紙が必要ですか?ペンと紙が必要ですか?今日の新聞はどこにありますか？彼の机の上にたくさんの書類があるのが見えます。",
+        "jpg": "【273__paper】Do you need a pen and paper?／Do you need a pen and some paper?／Where is today's paper?／I see a lot of papers on his desk."
+    },
+    {
+        "id": "274__lose",
+        "english": "Lose. He often loses his keys. We don't want to lose the game.",
+        "japanese": "彼はよく鍵をなくします。我々は試合に負けたくない。",
+        "jpg": "【274__lose】He often loses his keys.／We don't want to lose the game."
+    },
+    {
+        "id": "275__fast",
+        "english": "Fast. She is a fast runner. You walk too fast.",
+        "japanese": "彼女は走るのが速いです。歩くのが速すぎます。",
+        "jpg": "【275__fast】She is a fast runner.／You walk too fast."
+    },
+    {
+        "id": "276__hold",
+        "english": "Hold. What do you hold in your hand? They hold a meeting once a month.",
+        "japanese": "手に何を持っていますか？彼らは月に一度会議を開きます。",
+        "jpg": "【276__hold】What do you hold in your hand?／They hold a meeting once a month."
+    },
+    {
+        "id": "277__over",
+        "english": "Over. I cross over the street. Children over the age of 12 can join the event. The river is wide. Can we swim over? All is over with him.",
+        "japanese": "私は通りを渡ります。12 歳以上のお子様がイベントに参加できます。川は広いです。泳いで渡ってもいいですか？彼にとってはすべてが終わったのだ。",
+        "jpg": "【277__over】I cross over the street.／Children over the age of 12 can join the event.／The river is wide.／Can we swim over?／All is over with him."
+    },
+    {
+        "id": "278__weekend",
+        "english": "We can't. What do you two on the weekend?",
+        "japanese": "週末は二人で何をしますか？",
+        "jpg": "【278__weekend】What do you two on the weekend?"
+    },
+    {
+        "id": "279__homework",
+        "english": "Homework.Finish your homework first.",
+        "japanese": "まずは宿題を終わらせなさい。",
+        "jpg": "【279__homework】Finish your homework first."
+    },
+    {
+        "id": "280__afternoon",
+        "english": "Afternoon. We play soccer in the afternoon. Good afternoon.",
+        "japanese": "私たちは午後にサッカーをします。こんにちは。",
+        "jpg": "【280__afternoon】We play soccer in the afternoon.／Good afternoon."
+    },
+    {
+        "id": "281__open",
+        "english": "Open. Open the window, please. The store opens at ten. All the windows are open.",
+        "japanese": "窓を開けてください。店は10時に開きます。すべての窓が開いています。",
+        "jpg": "【281__open】Open the window, please.／The store opens at ten.／All the windows are open."
+    },
+    {
+        "id": "282__save",
+        "english": "Save. We want to save a lot of people. I want to save, honey. And traveled to many countries. Your information saves me a lot of time.",
+        "japanese": "私たちは多くの人を救いたいと思っています。救いたいのよ、ハニー。そして多くの国を旅しました。あなたの情報のおかげで時間を大幅に節約できます。",
+        "jpg": "【282__save】We want to save a lot of people.／I want to save, honey.／And traveled to many countries.／Your information saves me a lot of time."
+    },
+    {
+        "id": "283__abroad",
+        "english": "Abroad. I want to go abroad in the future.",
+        "japanese": "将来は海外に行きたいです。",
+        "jpg": "【283__abroad】I want to go abroad in the future."
+    },
+    {
+        "id": "284__parent",
+        "english": "Parent! My parents teach at school.",
+        "japanese": "私の両親は学校で教えています。",
+        "jpg": "【284__parent】My parents teach at school."
+    },
+    {
+        "id": "285__happen",
+        "english": "Happen. What happened to them?",
+        "japanese": "彼らに何が起こったのでしょうか？",
+        "jpg": "【285__happen】What happened to them?"
+    },
+    {
+        "id": "286__message",
+        "english": "Message. Can I leave a message for Mr. Brown?",
+        "japanese": "ブラウンさんにメッセージを残してもいいですか？",
+        "jpg": "【286__message】Can I leave a message for Mr.／Brown?"
+    },
+    {
+        "id": "287__into",
+        "english": "Into. Put it into this bag.",
+        "japanese": "この袋に入れてください。",
+        "jpg": "【287__into】Put it into this bag."
+    },
+    {
+        "id": "288__elementary_school",
+        "english": "Elementary school. Her mother is a teacher of an elementary school.",
+        "japanese": "彼女の母親は小学校の教師です。",
+        "jpg": "【288__elementary_school】Her mother is a teacher of an elementary school."
+    },
+    {
+        "id": "289__bad",
+        "english": "Bad. I have a bad cold.",
+        "japanese": "ひどい風邪をひいてしまいました。",
+        "jpg": "【289__bad】I have a bad cold."
+    },
+    {
+        "id": "290__tomorrow",
+        "english": "Tomorrow. Tomorrow is my birthday. See you tomorrow!",
+        "japanese": "明日は私の誕生日です。また明日ね！",
+        "jpg": "【290__tomorrow】Tomorrow is my birthday.／See you tomorrow!"
+    },
+    {
+        "id": "291__welcome",
+        "english": "Welcome. Welcome to New York. Come and see us again. You're always welcome. You're welcome.",
+        "japanese": "ニューヨークへようこそ。また会いに来てください。いつでも大歓迎です。どういたしまして。",
+        "jpg": "【291__welcome】Welcome to New York.／Come and see us again.／You're always welcome.／You're welcome."
+    },
+    {
+        "id": "292__clothes",
+        "english": "Clothes. I want to buy some new clothes for the summer.",
+        "japanese": "夏に向けて新しい服を買いたいと思っています。",
+        "jpg": "【292__clothes】I want to buy some new clothes for the summer."
+    },
+    {
+        "id": "293__color",
+        "english": "Color 이런. What colors do you like?",
+        "japanese": "何色が好きですか？",
+        "jpg": "【293__color】What colors do you like?"
+    },
+    {
+        "id": "294__warm",
+        "english": "Warm. It is warm today. She is kind and warm. I usually warm milk up.",
+        "japanese": "今日は暖かいですね。彼女は優しくて温かいです。私はよく牛乳を温めます。",
+        "jpg": "【294__warm】It is warm today.／She is kind and warm.／I usually warm milk up."
+    },
+    {
+        "id": "295__easily",
+        "english": "Easily. You can easily get such information on the internet.",
+        "japanese": "このような情報はインターネット上で簡単に入手できます。",
+        "jpg": "【295__easily】You can easily get such information on the internet."
+    },
+    {
+        "id": "296__cannot",
+        "english": "Cannot. He cannot swim.",
+        "japanese": "彼は泳げません。",
+        "jpg": "【296__cannot】He cannot swim."
+    },
+    {
+        "id": "297__performance",
+        "english": "Performance. His performance is very good.",
+        "japanese": "彼のパフォーマンスはとても良いです。",
+        "jpg": "【297__performance】His performance is very good."
+    },
+    {
+        "id": "298__spring",
+        "english": "Spring. Do you like spring or fall? The spring water there is good.",
+        "japanese": "春と秋どっちが好きですか？そこの湧き水は美味しいです。",
+        "jpg": "【298__spring】Do you like spring or fall?／The spring water there is good."
+    },
+    {
+        "id": "299__season",
+        "english": "Season. What is your favorite season?",
+        "japanese": "あなたの好きな季節は何ですか？",
+        "jpg": "【299__season】What is your favorite season?"
+    },
+    {
+        "id": "300__cold",
+        "english": "Cold. I want a cold drink. It's really cold outside. Do you often catch a cold?",
+        "japanese": "冷たい飲み物が欲しいです。外は本当に寒いです。あなたはよく風邪を引きますか?",
+        "jpg": "【300__cold】I want a cold drink.／It's really cold outside.／Do you often catch a cold?"
+    },
+    {
+        "id": "301__almost",
+        "english": "Almost. We play baseball almost every day.",
+        "japanese": "私たちはほぼ毎日野球をします。",
+        "jpg": "【301__almost】We play baseball almost every day."
+    },
+    {
+        "id": "302__p.m.",
+        "english": "P.m.I go to bed at 11 p.m",
+        "japanese": "私は午後11時に寝ます。",
+        "jpg": "【302__p.m.】I go to bed at 11 p.m"
+    },
+    {
+        "id": "303__early",
+        "english": "Early. I usually get up early. My father goes fishing in the early morning.",
+        "japanese": "私はいつも早く起きます。父は早朝に釣りに行きます。",
+        "jpg": "【303__early】I usually get up early.／My father goes fishing in the early morning."
+    },
+    {
+        "id": "304__forget",
+        "english": "Forget. I forgot his phone number. Don't forget to finish your homework before dinner.",
+        "japanese": "彼の電話番号を忘れてしまいました。夕食前に宿題を終わらせるのを忘れないでください。",
+        "jpg": "【304__forget】I forgot his phone number.／Don't forget to finish your homework before dinner."
+    },
+    {
+        "id": "305__tired",
+        "english": "Tired. We are tired after the long practice.",
+        "japanese": "私たちは長い練習の後で疲れています。",
+        "jpg": "【305__tired】We are tired after the long practice."
+    },
+    {
+        "id": "306__delicious",
+        "english": "Delicious. Dinner is delicious.",
+        "japanese": "夕食はおいしいです。",
+        "jpg": "【306__delicious】Dinner is delicious."
+    },
+    {
+        "id": "307__off",
+        "english": "Off. He saw a police officer and ran off. The sign says Keep off the grass.",
+        "japanese": "彼は警察官を見て逃走した。標識には「草を避けてください」と書かれています。",
+        "jpg": "【307__off】He saw a police officer and ran off.／The sign says Keep off the grass."
+    },
+    {
+        "id": "308__sick",
+        "english": "Sick. My mother is sick in bed.",
+        "japanese": "私の母は病気で寝ています。",
+        "jpg": "【308__sick】My mother is sick in bed."
+    },
+    {
+        "id": "309__free",
+        "english": "Free. Are you free tonight? I have free tickets to the night game.",
+        "japanese": "今夜は空いていますか？ナイターの無料チケットを持っています。",
+        "jpg": "【309__free】Are you free tonight?／I have free tickets to the night game."
+    },
+    {
+        "id": "310__hot",
+        "english": "Hot. It's so hot today.",
+        "japanese": "今日はとても暑いですね。",
+        "jpg": "【310__hot】It's so hot today."
+    },
+    {
+        "id": "311__sit",
+        "english": "Sit. We sat on the bench and had sandwiches.",
+        "japanese": "私たちはベンチに座ってサンドイッチを食べました。",
+        "jpg": "【311__sit】We sat on the bench and had sandwiches."
+    },
+    {
+        "id": "312__cool",
+        "english": "Cool. It became cool in the evening. All his songs are cool. I love them.",
+        "japanese": "夕方は涼しくなってきました。彼の曲はどれもカッコいいです。私は彼らを愛しています。",
+        "jpg": "【312__cool】It became cool in the evening.／All his songs are cool.／I love them."
+    },
+    {
+        "id": "313__away",
+        "english": "Away. Stay away from the fire.",
+        "japanese": "火から遠ざけてください。",
+        "jpg": "【313__away】Stay away from the fire."
+    },
+    {
+        "id": "314__present",
+        "english": "Present. He gave a bike to his son as a birthday present.",
+        "japanese": "彼は息子に誕生日プレゼントとして自転車を贈った。",
+        "jpg": "【314__present】He gave a bike to his son as a birthday present."
+    },
+    {
+        "id": "315__check",
+        "english": "Check. After the exam, I checked my answers. Mark the right answers with the check.",
+        "japanese": "試験の後、私は自分の答えを確認しました。正しい答えにはチェックマークを付けてください。",
+        "jpg": "【315__check】After the exam, I checked my answers.／Mark the right answers with the check."
+    },
+    {
+        "id": "316__mine",
+        "english": "Mine. Whose shoes are these? They are mine.",
+        "japanese": "これは誰の靴ですか？それらは私のものです。",
+        "jpg": "【316__mine】Whose shoes are these? They are mine."
+    },
+    {
+        "id": "317__uncle",
+        "english": "Uncle. I have two uncles.",
+        "japanese": "私には叔父が二人います。",
+        "jpg": "【317__uncle】I have two uncles."
+    },
+    {
+        "id": "318__follow",
+        "english": "Follow. I followed his advice and went to see the doctor. My dog followed me.",
+        "japanese": "私は彼のアドバイスに従い、医者に会いに行きました。私の犬が私についてきました。",
+        "jpg": "【318__follow】I followed his advice and went to see the doctor.／My dog followed me."
+    },
+    {
+        "id": "319__hundred",
+        "english": "Hundred. The little boy can count to 100 now. About four hundred students are in our school.",
+        "japanese": "その小さな男の子は今では100まで数えられるようになりました。私たちの学校には約400人の生徒がいます。",
+        "jpg": "【319__hundred】The little boy can count to 100 now.／About four hundred students are in our school."
+    },
+    {
+        "id": "320__left",
+        "english": "Left. Can you eat with your left hand? Please turn left at the next corner. You can see Mount Fuji on your left. You can see Mount Fuji on the left.",
+        "japanese": "左手で食事できますか？次の角を左折してください。左手に富士山が見えます。左手に富士山が見えます。",
+        "jpg": "【320__left】Can you eat with your left hand?／Please turn left at the next corner.／You can see Mount Fuji on your left.／You can see Mount Fuji on the left."
+    },
+    {
+        "id": "321__Chinese",
+        "english": "Chinese. My brother studies Chinese at college. Do you like Chinese food?",
+        "japanese": "私の兄は大学で中国語を勉強しています。中華料理は好きですか？",
+        "jpg": "【321__Chinese】My brother studies Chinese at college.／Do you like Chinese food?"
+    },
+    {
+        "id": "322__concert",
+        "english": "Concert. I went to a piano concert last Friday.",
+        "japanese": "先週の金曜日にピアノのコンサートに行きました。",
+        "jpg": "【322__concert】I went to a piano concert last Friday."
+    },
+    {
+        "id": "323__evening",
+        "english": "Evening He came back late in the evening.",
+        "japanese": "彼は夕方遅くに戻ってきました。",
+        "jpg": "【323__evening】He came back late in the evening."
+    },
+    {
+        "id": "324__snow",
+        "english": "Snow 雪 We had a lot of snow this winter. It snows a lot in winter.",
+        "japanese": "冬には雪がたくさん降ります。",
+        "jpg": "【324__snow】It snows a lot in winter."
+    },
+    {
+        "id": "325__poster",
+        "english": "Poster. I have some posters of movie stars on the wall of my room.",
+        "japanese": "私は自分の部屋の壁に映画スターのポスターを何枚か貼っています。",
+        "jpg": "【325__poster】I have some posters of movie stars on the wall of my room."
+    },
+    {
+        "id": "326__field",
+        "english": "Field. I see some cows in the field. He is one of the great scientists in this field. Yesterday, I went to a baseball field for the first time.",
+        "japanese": "野原に牛が数頭見えます。彼はこの分野の偉大な科学者の一人です。昨日、初めて野球場に行きました。",
+        "jpg": "【326__field】I see some cows in the field.／He is one of the great scientists in this field.／Yesterday, I went to a baseball field for the first time."
+    },
+    {
+        "id": "327__break",
+        "english": "Break. Don't break the cup. The glass fell from the table and broke. Now let's take a break for 15 minutes.",
+        "japanese": "カップを割らないでください。ガラスがテーブルから落ちて割れてしまいました。では、15分間休憩しましょう。",
+        "jpg": "【327__break】Don't break the cup.／The glass fell from the table and broke.／Now let's take a break for 15 minutes."
+    },
+    {
+        "id": "328__fall",
+        "english": "Fall. I often fall on the ice. Rain falls from the sky. The leaves of this tree turn yellow in fall. The leaves of this tree turn yellow in the fall.",
+        "japanese": "私はよく氷の上に落ちます。雨が空から降ってきます。この木の葉は秋には黄色に変わります。この木の葉は秋には黄色に変わります。",
+        "jpg": "【328__fall】I often fall on the ice.／Rain falls from the sky.／The leaves of this tree turn yellow in fall.／The leaves of this tree turn yellow in the fall."
+    },
+    {
+        "id": "329__short",
+        "english": "Short. His hair was short. He had short hair.",
+        "japanese": "彼の髪は短かった。彼は短い髪をしていました。",
+        "jpg": "【329__short】His hair was short.／He had short hair."
+    },
+    {
+        "id": "330__face",
+        "english": "Face. I wash my face at 7 am. Don't be afraid and face the problems.",
+        "japanese": "私は朝7時に顔を洗います。恐れずに問題に向き合ってください。",
+        "jpg": "【330__face】I wash my face at 7 am.／Don't be afraid and face the problems."
+    },
+    {
+        "id": "331__ski",
+        "english": "Ski. I usually ski in Hokkaido. He fell and broke one of the skis.",
+        "japanese": "私は普段北海道でスキーをしています。彼は転んでスキー板の1枚を壊した。",
+        "jpg": "【331__ski】I usually ski in Hokkaido.／He fell and broke one of the skis."
+    },
+    {
+        "id": "332__local",
+        "english": "Local. We had a wonderful dinner at a local restaurant.",
+        "japanese": "私たちは地元のレストランで素晴らしいディナーを食べました。",
+        "jpg": "【332__local】We had a wonderful dinner at a local restaurant."
+    },
+    {
+        "id": "333__rain",
+        "english": "Rain. He went out in the rain. It rained hard.",
+        "japanese": "彼は雨の中を出かけた。雨が激しく降りました。",
+        "jpg": "【333__rain】He went out in the rain.／It rained hard."
+    },
+    {
+        "id": "334__mom",
+        "english": "Mom. Mama. My mom is a doctor.",
+        "japanese": "ママ。私の母は医者です。",
+        "jpg": "【334__mom】My mom is a doctor."
+    },
+    {
+        "id": "335__Mt.",
+        "english": "Mt. We can see Mt. Fuji from here.",
+        "japanese": "ここからは富士山が見えます。",
+        "jpg": "【335__Mt.】We can see Mt.／Fuji from here."
+    },
+    {
+        "id": "336__office",
+        "english": "Office. My father goes to his office by subway.",
+        "japanese": "私の父は地下鉄で会社に行きます。",
+        "jpg": "【336__office】My father goes to his office by subway."
+    },
+    {
+        "id": "337__outside",
+        "english": "Outside. We usually played outside after school. I waited outside the store. The house looked nice from the outside. She turned on the outside light.",
+        "japanese": "私たちは放課後はたいてい外で遊びました。店の外で待っていました。家は外から見ると素敵に見えました。彼女は外の明かりをつけました。",
+        "jpg": "【337__outside】We usually played outside after school.／I waited outside the store.／The house looked nice from the outside.／She turned on the outside light."
+    },
+    {
+        "id": "338__catch",
+        "english": "Catch. Please catch this ball.",
+        "japanese": "このボールをキャッチしてください。",
+        "jpg": "【338__catch】Please catch this ball."
+    },
+    {
+        "id": "339__aunt",
+        "english": "Aunt. My aunt and her daughter live in the country.",
+        "japanese": "私の叔母と彼女の娘は田舎に住んでいます。",
+        "jpg": "【339__aunt】My aunt and her daughter live in the country."
+    },
+    {
+        "id": "340__door",
+        "english": "Door. Someone knocked on the door. Please come in the door. Please come in the front door.",
+        "japanese": "誰かがドアをノックしました。ドアの中に入ってください。正面玄関からお入りください。",
+        "jpg": "【340__door】Someone knocked on the door.／Please come in the door.／Please come in the front door."
+    },
+    {
+        "id": "341__turn",
+        "english": "Turn. Turn left at the corner. I turn the handle quietly.",
+        "japanese": "角を左折してください。私は静かにハンドルを回します。",
+        "jpg": "【341__turn】Turn left at the corner.／I turn the handle quietly."
+    },
+    {
+        "id": "342__dear",
+        "english": "Dear. Dear Mr. Smith, Oh dear. I can't find my key.",
+        "japanese": "親愛なるスミスさん、ああ、親愛なる。鍵が見つかりません。",
+        "jpg": "【342__dear】Dear Mr.／Smith, ／Oh dear.／I can't find my key."
+    },
+    {
+        "id": "343__subject",
+        "english": "Subject. My favorite subject is PE. Now, let's change the subject.",
+        "japanese": "私の好きな科目は体育です。さて、話題を変えましょう。",
+        "jpg": "【343__subject】My favorite subject is PE.／Now, let's change the subject."
+    },
+    {
+        "id": "344__weather",
+        "english": "Weather How is the weather? What is the weather like?",
+        "japanese": "天気はどうですか？ / お天気はいかがですか？",
+        "jpg": "【344__weather】How is the weather?／What is the weather like?"
+    },
+    {
+        "id": "345__shoe",
+        "english": "Shoe. She put on her shoes. She took off her shoes.",
+        "japanese": "彼女は靴を履いた。彼女は靴を脱ぎました。",
+        "jpg": "【345__shoe】She put on her shoes.／She took off her shoes."
+    },
+    {
+        "id": "346__fan",
+        "english": "Fan. He is a fan of the rock group. The fan doesn't work.",
+        "japanese": "彼はロックグループのファンです。ファンが作動しません。",
+        "jpg": "【346__fan】He is a fan of the rock group.／The fan doesn't work."
+    },
+    {
+        "id": "347__pass",
+        "english": "Pass. We talked to each other and passed the bank. Luckily, I passed the test. The summer vacation passed so fast. Pass me the salt, please.",
+        "japanese": "私たちはお互いに話し合って銀行の前を通りました。幸いなことに、私は試験に合格しました。夏休みはあっという間に過ぎてしまいました。塩をください。",
+        "jpg": "【347__pass】We talked to each other and passed the bank.／Luckily, I passed the test.／The summer vacation passed so fast.／Pass me the salt, please."
+    },
+    {
+        "id": "348__quickly",
+        "english": "Quickly. Don't eat so quickly.",
+        "japanese": "そんなに早く食べないでください。",
+        "jpg": "【348__quickly】Don't eat so quickly."
+    },
+    {
+        "id": "349__along",
+        "english": "We walked along the river early in the morning. My dog runs along at my side.",
+        "japanese": "私の犬が私の横を走ります。",
+        "jpg": "【349__along】My dog runs along at my side."
+    },
+    {
+        "id": "350__poor",
+        "english": "Poor. They were poor in those days. The poor child stands alone in the rain.",
+        "japanese": "当時彼らは貧しかった。可哀想な子供は雨の中一人で立っています。",
+        "jpg": "【350__poor】They were poor in those days.／The poor child stands alone in the rain."
+    },
+    {
+        "id": "351__sell",
+        "english": "Sell. The store sells vegetables and fruits.",
+        "japanese": "その店では野菜や果物を販売しています。",
+        "jpg": "【351__sell】The store sells vegetables and fruits."
+    },
+    {
+        "id": "352__center",
+        "english": "Center. The hotel is in the center of the city.",
+        "japanese": "ホテルは市内中心部にあります。",
+        "jpg": "【352__center】The hotel is in the center of the city."
+    },
+    {
+        "id": "353__amazing",
+        "english": "Amazing. Her performance was really amazing.",
+        "japanese": "彼女のパフォーマンスは本当に素晴らしかったです。",
+        "jpg": "【353__amazing】Her performance was really amazing."
+    },
+    {
+        "id": "354__ticket",
+        "english": "Ticket. I have two tickets for the concert.",
+        "japanese": "私はそのコンサートのチケットを２枚持っています。",
+        "jpg": "【354__ticket】I have two tickets for the concert."
+    },
+    {
+        "id": "355__a.m.",
+        "english": "A.m.She works at the bookstore from 10 a.m.",
+        "japanese": "彼女は午前10時から本屋で働いています。",
+        "jpg": "【355__a.m.】She works at the bookstore from 10 a.m."
+    },
+    {
+        "id": "356__phone",
+        "english": "Phone. We talked on the phone for an hour.",
+        "japanese": "私たちは1時間電話で話しました。",
+        "jpg": "【356__phone】We talked on the phone for an hour."
+    },
+    {
+        "id": "357__perform",
+        "english": "Perform. She performed on the piano very well. They performed the experiment.",
+        "japanese": "彼女はピアノでとても上手に演奏しました。彼らは実験を行った。",
+        "jpg": "【357__perform】She performed on the piano very well.／They performed the experiment."
+    },
+    {
+        "id": "358__breakfast",
+        "english": "Breakfast. What did you have for breakfast?",
+        "japanese": "朝食には何を食べましたか？",
+        "jpg": "【358__breakfast】What did you have for breakfast?"
+    },
+    {
+        "id": "359__careful",
+        "english": "Careful! She is a careful driver.",
+        "japanese": "彼女は慎重な運転手です。",
+        "jpg": "【359__careful】She is a careful driver."
+    },
+    {
+        "id": "360__age",
+        "english": "Age. Please write your name and age on the paper.",
+        "japanese": "紙に氏名と年齢を記入してください。",
+        "jpg": "【360__age】 Please write your name and age on the paper."
+    },
+    {
+        "id": "361__cut",
+        "english": "Cut. He cut his finger with a knife.",
+        "japanese": "彼はナイフで指を切りました。",
+        "jpg": "【361__cut】He cut his finger with a knife."
+    },
+    {
+        "id": "362__someday",
+        "english": "Someday. She wants to be an animator someday.",
+        "japanese": "彼女はいつかアニメーターになりたいと思っています。",
+        "jpg": "【362__someday】She wants to be an animator someday."
+    },
+    {
+        "id": "363__stick",
+        "english": "We collected dry sticks for the fire. A few pages stuck together.",
+        "japanese": "私たちは火を焚くために、乾いた枝を集めました。数ページがくっついてしまった。",
+        "jpg": "【363__stick】We collected dry sticks for the fire.／A few pages stuck together."
+    },
+    {
+        "id": "364__may",
+        "english": "May. You may be right. May I ask you a question?",
+        "japanese": "あなたは正しいかもしれません。質問してもいいですか？",
+        "jpg": "【364__may】You may be right.／May I ask you a question?"
+    },
+    {
+        "id": "365__uniform",
+        "english": "Uniform. We wear the school uniform.",
+        "japanese": "私たちは学校の制服を着ています。",
+        "jpg": "【365__uniform】We wear the school uniform."
+    },
+    {
+        "id": "366__climb",
+        "english": "Climb. I want to climb Mount Fuji.",
+        "japanese": "富士山に登りたいです。",
+        "jpg": "【366__climb】I want to climb Mount Fuji."
+    },
+    {
+        "id": "367__gym",
+        "english": "Gym.My dad goes to the gym once a week.",
+        "japanese": "父は週に1回、ジムに通っています。",
+        "jpg": "【367__gym】My dad goes to the gym once a week."
+    },
+    {
+        "id": "368__hungry",
+        "english": "Hungry.Are you hungry?",
+        "japanese": "お腹は空いていますか？",
+        "jpg": "【368__hungry】Are you hungry?"
+    },
+    {
+        "id": "369__football",
+        "english": "Football.I want to play football in high school.",
+        "japanese": "高校ではサッカー部に入りたいです。",
+        "jpg": "【369__football】I want to play football in high school."
+    },
+    {
+        "id": "370__line",
+        "english": "Line. Please stand in line. Cut the paper along the line.",
+        "japanese": "列にお並びください。線に沿って紙を切ります。",
+        "jpg": "【370__line】Please stand in line.／Cut the paper along the line."
+    },
+    {
+        "id": "371__orange",
+        "english": "Orange. I like apples and oranges. The sky turned orange before sunset.",
+        "japanese": "私はリンゴとオレンジが好きです。日没前に空がオレンジ色に染まりました。",
+        "jpg": "【371__orange】I like apples and oranges.／The sky turned orange before sunset."
+    },
+    {
+        "id": "372__thousand",
+        "english": "Thousand. This ticket is two thousand yen. The population of this village is about two thousand.",
+        "japanese": "このチケットは二千円です。この村の人口は約 2,000 人です。",
+        "jpg": "【372__thousand】This ticket is two thousand yen.／The population of this village is about two thousand."
+    },
+    {
+        "id": "373__touch",
+        "english": "Touch. Don't touch any paintings. We kept in touch after graduation.",
+        "japanese": "絵画には触れないでください。卒業後も連絡を取り合いました。",
+        "jpg": "【373__touch】Don't touch any paintings.／We kept in touch after graduation."
+    },
+    {
+        "id": "374__yours",
+        "english": "Yours. These are mine. Yours are there.",
+        "japanese": "これらは私のものです。あなたのものはそこにあります。",
+        "jpg": "【374__yours】These are mine.／Yours are there."
+    },
+    {
+        "id": "375__o'clock",
+        "english": "O'clock. I got up at six o'clock in the morning.",
+        "japanese": "私は朝6時に起きました。",
+        "jpg": "【375__o'clock】I got up at six o'clock in the morning."
+    },
+    {
+        "id": "376__relax",
+        "english": "Relax. After a busy day, He took a bath and relaxed.",
+        "japanese": "忙しい一日を終えた後、彼はお風呂に入ってリラックスしました。",
+        "jpg": "【376__relax】After a busy day, He took a bath and relaxed."
+    },
+    {
+        "id": "377__T-shirt",
+        "english": "T-shirt. I usually wear a T-shirt and jeans.",
+        "japanese": "Tシャツ。私は普段Tシャツとジーンズを着ています。",
+        "jpg": "【377__T-shirt】I usually wear a T-shirt and jeans."
+    },
+    {
+        "id": "378__hers",
+        "english": "Hers. Whose bag is this? It's hers.",
+        "japanese": "これは誰のバッグですか?それは彼女のものです。",
+        "jpg": "【378__hers】Whose bag is this?／It's hers."
+    },
+    {
+        "id": "379__against",
+        "english": "Against. Are you against my plan?",
+        "japanese": "私の計画に反対ですか？",
+        "jpg": "【379__against】Are you against my plan?"
+    },
+    {
+        "id": "380__Mrs.",
+        "english": "Mrs. Hello, Mrs. White.",
+        "japanese": "こんにちは、ホワイトさん。",
+        "jpg": "【380__Mrs.】Hello, Mrs.／White."
+    },
+    {
+        "id": "381__miss",
+        "english": "Miss. I missed the bus to school and was late. We really miss you.",
+        "japanese": "学校行きのバスに乗り遅れて遅刻してしまいました。本当に寂しかったです。",
+        "jpg": "【381__miss】I missed the bus to school and was late.／We really miss you."
+    },
+    {
+        "id": "382__dad",
+        "english": "Dad. My dad is a doctor.",
+        "japanese": "私の父は医者です。",
+        "jpg": "【382__dad】My dad is a doctor."
+    },
+    {
+        "id": "383__wish",
+        "english": "Wish. I wish you good luck. I have a wish to travel around the world.",
+        "japanese": "幸運を祈ります。私には世界中を旅したいという願望があります。",
+        "jpg": "【383__wish】I wish you good luck.／I have a wish to travel around the world."
+    },
+    {
+        "id": "384__behind",
+        "english": "Behind. He hid behind the big tree. Don't leave anything behind.",
+        "japanese": "彼は大きな木の後ろに隠れました。何も残さないでください。",
+        "jpg": "【384__behind】He hid behind the big tree.／Don't leave anything behind."
+    },
+    {
+        "id": "385__drop",
+        "english": "Drop. I drop the key at the front door. The temperature dropped soon after the sunset. Rain is very small drops of water.",
+        "japanese": "玄関に鍵を落としてしまいました。日没後すぐに気温が下がりました。雨はとても小さな水滴です。",
+        "jpg": "【385__drop】I drop the key at the front door.／The temperature dropped soon after the sunset.／Rain is very small drops of water."
+    },
+    {
+        "id": "386__set",
+        "english": "Set. I want to buy a new set of dishes. In tennis, six games make up a set. Please set these books on the shelf. The sun began to set.",
+        "japanese": "新しい食器セットを買いたいです。テニスでは 6 つのゲームが 1 セットとなります。これらの本を本棚に並べてください。太陽が沈み始めました。",
+        "jpg": "【386__set】I want to buy a new set of dishes.／In tennis, six games make up a set.／Please set these books on the shelf.／The sun began to set."
+    },
+    {
+        "id": "387__bath",
+        "english": "Bath. I take a bath at about 10 o'clock.",
+        "japanese": "10時くらいにお風呂に入ります。",
+        "jpg": "【387__bath】I take a bath at about 10 o'clock."
+    },
+    {
+        "id": "388__case",
+        "english": "Case. Usually he is wrong, but in this case he is right. Did you see my pencil case?",
+        "japanese": "通常、彼は間違っていますが、この場合は彼が正しいです。私の筆箱を見ましたか？",
+        "jpg": "【388__case】Usually he is wrong, but in this case he is right.／Did you see my pencil case?"
+    },
+    {
+        "id": "389__towel",
+        "english": "Towel.He dried his hands with a towel.",
+        "japanese": "彼はタオルで手を拭きました。",
+        "jpg": "【389__towel】He dried his hands with a towel."
+    },
+    {
+        "id": "390__trumpet",
+        "english": "Trumpet. He can play the trumpet.",
+        "japanese": "彼はトランペットを吹くことができます。",
+        "jpg": "【390__trumpet】He can play the trumpet."
+    },
+    {
+        "id": "391__full",
+        "english": "Four. The train is full. I waited for two full weeks. The moon is full.",
+        "japanese": "電車は満員です。丸二週間待ちました。月は満月です。",
+        "jpg": "【391__full】The train is full.／I waited for two full weeks.／The moon is full."
+    },
+    {
+        "id": "392__round",
+        "english": "Round. The girl had big round eyes.",
+        "japanese": "その女の子は大きな丸い目をしていました。",
+        "jpg": "【392__round】The girl had big round eyes."
+    },
+    {
+        "id": "393__whose",
+        "english": "Whose. Whose book is this? Whose is this pencil?",
+        "japanese": "これは誰の本ですか?この鉛筆は誰のですか。",
+        "jpg": "【393__whose】Whose book is this?／Whose is this pencil?"
+    },
+    {
+        "id": "394__cousin",
+        "english": "Cousin.She is my cousin.",
+        "japanese": "彼女は私のいとこです。",
+        "jpg": "【394__cousin】She is my cousin."
+    },
+    {
+        "id": "395__king",
+        "english": "King.Is the lion the king of all animals?",
+        "japanese": "ライオンは百獣の王（すべての動物の王）ですか？",
+        "jpg": "【395__king】Is the lion the king of all animals?"
+    },
+    {
+        "id": "396__dollar",
+        "english": "Dollar. This t-shirt cost $20.",
+        "japanese": "このTシャツの値段は20ドルでした。",
+        "jpg": "【396__dollar】This t-shirt cost $20."
+    },
+    {
+        "id": "397__anywhere",
+        "english": "Anywhere. Did you go anywhere during summer vacation? I can't find my key anywhere. Put the shopping bag down anywhere.",
+        "japanese": "夏休み中にどこかへ行きましたか？鍵がどこにも見つかりません。買い物袋をどこにでも置きます。",
+        "jpg": "【397__anywhere】Did you go anywhere during summer vacation?／I can't find my key anywhere.／Put the shopping bag down anywhere."
+    },
+    {
+        "id": "398__ours",
+        "english": "Ours. This is his house and that is ours.",
+        "japanese": "ここは彼の家であり、あれは私たちの家です。",
+        "jpg": "【398__ours】This is his house and that is ours."
+    },
+    {
+        "id": "399__theirs",
+        "english": "There's. The house with green roof is theirs.",
+        "japanese": "緑の屋根の家は彼らのものです。",
+        "jpg": "【399__theirs】The house with green roof is theirs."
+    },
+    {
+        "id": "400__yeah",
+        "english": "Yeah. Are you sure? Yeah, I'm sure.",
+        "japanese": "本気ですか？ええ、確かに。",
+        "jpg": "【400__yeah】Are you sure?／Yeah, I'm sure."
+    },
+    {
+        "id": "C1_go_home",
+        "english": "Go home. Let's go home together.",
+        "japanese": "一緒に家に帰りましょう。",
+        "jpg": "【C1_go_home】Let's go home together."
+    },
+    {
+        "id": "C2_go_to_school",
+        "english": "Go to school. Every morning I go to school with my friend.",
+        "japanese": "毎朝、私は友達と一緒に学校に行きます。",
+        "jpg": "【C2_go_to_school】Every morning I go to school with my friend."
+    },
+    {
+        "id": "C3_go_to_bed",
+        "english": "Go to bed. I go to bed at 10 o'clock.",
+        "japanese": "10時に寝ます。",
+        "jpg": "【C3_go_to_bed】I go to bed at 10 o'clock."
+    },
+    {
+        "id": "C4_go_out",
+        "english": "Go out. We often go out for dinner.",
+        "japanese": "私たちはよく夕食に出かけます。",
+        "jpg": "【C4_go_out】We often go out for dinner."
+    },
+    {
+        "id": "C5_come_in",
+        "english": "come in. Please come in.",
+        "japanese": "どうぞお入りください。",
+        "jpg": "【C5_come_in】Please come in."
+    },
+    {
+        "id": "C6_come_back_to",
+        "english": "Come back.When did you come back?",
+        "japanese": "いつ戻ってきましたか?",
+        "jpg": "【C6_come_back_to】When did you come back?"
+    },
+    {
+        "id": "C7_come_and_go",
+        "english": "come and go. A lot of students come and go. They all seem the same to me.",
+        "japanese": "たくさんの学生が行き来します。私にはそれらはすべて同じに見えます。",
+        "jpg": "【C7_come_and_go】A lot of students come and go.／They all seem the same to me."
+    },
+    {
+        "id": "C8_go_up",
+        "english": "Go up. The price of oil went up.",
+        "japanese": "石油の価格が上がりました。",
+        "jpg": "【C8_go_up】The price of oil went up."
+    },
+    {
+        "id": "C9_do_one's_best",
+        "english": "Do one's best. Try to do your best.",
+        "japanese": "頑張ってください。",
+        "jpg": "【C9_do_one's_best】Try to do your best."
+    },
+    {
+        "id": "C10_do_one_s_homework",
+        "english": "Do one's homework. I'm doing my homework now.",
+        "japanese": "私は今宿題をしています。",
+        "jpg": "【C10_do_one_s_homework】I'm doing my homework now."
+    },
+    {
+        "id": "C11_fall_down",
+        "english": "Fall_down.A boy fell down and cried for a while.",
+        "japanese": "男の子が転んで、しばらく泣いていました。",
+        "jpg": "【C11_fall_down】A boy fell down and cried for a while."
+    },
+    {
+        "id": "C12_get_up",
+        "english": "Get up. I get up at 6 every morning.",
+        "japanese": "私は毎朝6時に起きます。",
+        "jpg": "【C12_get_up】I get up at 6 every morning."
+    },
+    {
+        "id": "C13_wake_up",
+        "english": "Wake up! I usually wake up early in the morning.",
+        "japanese": "私はいつも朝早く起きます。",
+        "jpg": "【C13_wake_up】I usually wake up early in the morning."
+    },
+    {
+        "id": "C14_run_away",
+        "english": "Run away. He ran away from home at the age of 17.",
+        "japanese": "彼は17歳の時に家出をした。",
+        "jpg": "【C14_run_away】He ran away from home at the age of 17."
+    },
+    {
+        "id": "C15_stand_up",
+        "english": "Stand up. Everyone, stand up.",
+        "japanese": "皆さん、立ち上がってください。",
+        "jpg": "【C15_stand_up】Everyone, stand up."
+    },
+    {
+        "id": "C16_have_a_time",
+        "english": "Have a time. We always have a good time after school.",
+        "japanese": "放課後はいつも楽しい時間を過ごしています。",
+        "jpg": "【C16_have_a_time】We always have a good time after school."
+    },
+    {
+        "id": "C17_have_fun",
+        "english": "Have fun! Let's have fun together.",
+        "japanese": "一緒に楽しみましょう。",
+        "jpg": "【C17_have_fun】Let's have fun together."
+    },
+    {
+        "id": "C18_find_out",
+        "english": "Find out. I found out some interesting things.",
+        "japanese": "いくつか興味深いことが分かりました。",
+        "jpg": "【C18_find_out】I found out some interesting things."
+    },
+    {
+        "id": "C19_take_a_bath",
+        "english": "Take a bath. In Japan, many people take a bath every day.",
+        "japanese": "日本では多くの人が毎日お風呂に入ります。",
+        "jpg": "【C19_take_a_bath】In Japan, many people take a bath every day."
+    },
+    {
+        "id": "C20_come_from",
+        "english": "Come from. Where do you come from?",
+        "japanese": "あなたの出身はどこですか？",
+        "jpg": "【C20_come_from】Where do you come from?"
+    },
+    {
+        "id": "C21_listen_to",
+        "english": "Listen to.I listen to music after dinner.",
+        "japanese": "夕食の後に音楽を聴きます。",
+        "jpg": "【C21_listen_to】I listen to music after dinner."
+    },
+    {
+        "id": "C22_wait_for",
+        "english": "Wait for. Please wait for me at the school gate.",
+        "japanese": "校門で待っていてください。",
+        "jpg": "【C22_wait_for】Please wait for me at the school gate."
+    },
+    {
+        "id": "C23_live_in",
+        "english": "Live in. My uncle lives in Australia.",
+        "japanese": "私の叔父はオーストラリアに住んでいます。",
+        "jpg": "【C23_live_in】My uncle lives in Australia."
+    },
+    {
+        "id": "C24_look_at",
+        "english": "Look at.Look at this picture.",
+        "japanese": "この写真を見てください。",
+        "jpg": "【C24_look_at】Look at this picture."
+    },
+    {
+        "id": "C25_look_for",
+        "english": "Look for. I'm looking for my baseball cap.",
+        "japanese": "野球帽を探しています。",
+        "jpg": "【C25_look_for】I'm looking for my baseball cap."
+    },
+    {
+        "id": "C26_look_like",
+        "english": "Look like. The man and the children look like friends.",
+        "japanese": "その男性と子供たちは、まるで友達のように見えます。",
+        "jpg": "【C26_look_like】The man and the children look like friends."
+    },
+    {
+        "id": "C27_stay_with",
+        "english": "She stayed with her aunt during the summer vacation.",
+        "japanese": "彼女は夏休みの間、おばの家に滞在しました。",
+        "jpg": "【C27_stay_with】She stayed with her aunt during the summer vacation."
+    },
+    {
+        "id": "C28_talk_about",
+        "english": "Talk about. We talk about a lot of things in class.",
+        "japanese": "私たちはクラスでたくさんのことについて話します。",
+        "jpg": "【C28_talk_about】We talk about a lot of things in class."
+    },
+    {
+        "id": "C29_learn_about",
+        "english": "Learn about. I wanted to learn about Japanese culture.",
+        "japanese": "日本文化について学びたかった。",
+        "jpg": "【C29_learn_about】I wanted to learn about Japanese culture."
+    },
+    {
+        "id": "C30_agree_with",
+        "english": "Agree_with.I agree with you.",
+        "japanese": "あなたの意見に賛成です。",
+        "jpg": "【C30_agree_with】I agree with you."
+    },
+    {
+        "id": "C31_bring_back",
+        "english": "Bring back. Please bring back all the library books by the end of the month.",
+        "japanese": "月末までに図書館の本をすべてご返却ください。",
+        "jpg": "【C31_bring_back】Please bring back all the library books by the end of the month."
+    },
+    {
+        "id": "C32_leave_behind",
+        "english": "Leave behind. Did anybody leave this book behind yesterday?",
+        "japanese": "昨日誰かがこの本を置き去りにしましたか?",
+        "jpg": "【C32_leave_behind】Did anybody leave this book behind yesterday?"
+    },
+    {
+        "id": "C33_pick_up",
+        "english": "Pick up. My father picked me up in front of the gate.",
+        "japanese": "父が門の前まで私を迎えに来てくれました。",
+        "jpg": "【C33_pick_up】My father picked me up in front of the gate."
+    },
+    {
+        "id": "C34_put_on",
+        "english": "Put on. You can't put on a kimono alone.",
+        "japanese": "着物は一人では着られません。",
+        "jpg": "【C34_put_on】You can't put on a kimono alone."
+    },
+    {
+        "id": "C35_take_off",
+        "english": "Take off. I took off my clothes.",
+        "japanese": "私は服を脱ぎました。",
+        "jpg": "【C35_take_off】I took off my clothes."
+    },
+    {
+        "id": "C36_take_out",
+        "english": "Take out. My father always takes out the garbage.",
+        "japanese": "私の父はいつもゴミ出しをします。",
+        "jpg": "【C36_take_out】My father always takes out the garbage."
+    },
+    {
+        "id": "C37_take_care_of",
+        "english": "Take care of. My sister takes care of sick people in the hospital. Take care of yourself.",
+        "japanese": "私の妹は病院で病気の人たちの世話をしています。自分を大事にして下さい。",
+        "jpg": "【C37_take_care_of】My sister takes care of sick people in the hospital.／Take care of yourself."
+    },
+    {
+        "id": "C38_look_forward_to",
+        "english": "Look forward to. We're looking forward to seeing you.",
+        "japanese": "皆様のお越しをお待ちしております。",
+        "jpg": "【C38_look_forward_to】We're looking forward to seeing you."
+    },
+    {
+        "id": "C39_be_from",
+        "english": "Be from. He is from China.",
+        "japanese": "彼は中国出身です。",
+        "jpg": "【C39_be_from】He is from China."
+    },
+    {
+        "id": "C40_be_good_at",
+        "english": "Be good head. You are good at English.",
+        "japanese": "あなたは英語が上手です。",
+        "jpg": "【C40_be_good_at】You are good at English."
+    },
+    {
+        "id": "C41_be_afraid_of",
+        "english": "Be Afraid of. Some children are afraid of dog hunks.",
+        "japanese": "犬の塊を怖がる子供もいます。",
+        "jpg": "【C41_be_afraid_of】Some children are afraid of dog hunks."
+    },
+    {
+        "id": "C42_be_famous_for",
+        "english": "Be famous for. That park is famous for its cherry blossoms.",
+        "japanese": "あの公園は桜で有名です。",
+        "jpg": "【C42_be_famous_for】That park is famous for its cherry blossoms."
+    },
+    {
+        "id": "C43_be_full_of",
+        "english": "Be full hope. Our garden is full of flowers.",
+        "japanese": "私たちの庭は花でいっぱいです。",
+        "jpg": "【C43_be_full_of】Our garden is full of flowers."
+    },
+    {
+        "id": "C44_be_interested_in",
+        "english": "Be interested in. I am interested in Asian history.",
+        "japanese": "私はアジアの歴史に興味があります。",
+        "jpg": "【C44_be_interested_in】I am interested in Asian history."
+    },
+    {
+        "id": "C45_be_able_to",
+        "english": "Be able to. Are you able to use this computer?",
+        "japanese": "このコンピュータを使用できますか?",
+        "jpg": "【C45_be_able_to】Are you able to use this computer?"
+    },
+    {
+        "id": "C46_be_in_trouble",
+        "english": "Be in trouble. When she was in trouble, the teachers always helped her.",
+        "japanese": "彼女が困ったとき、先生たちはいつも彼女を助けてくれました。",
+        "jpg": "【C46_be_in_trouble】When she was in trouble, the teachers always helped her."
+    },
+    {
+        "id": "C47_a_few",
+        "english": "A few.A few days ago, we found a little cat.",
+        "japanese": "数日前、私たちは子猫を見つけました。",
+        "jpg": "【C47_a_few】A few days ago, we found a little cat."
+    },
+    {
+        "id": "C48_a_little",
+        "english": "A little. I'm a little tired.",
+        "japanese": "少し疲れました。",
+        "jpg": "【C48_a_little】I'm a little tired."
+    },
+    {
+        "id": "C49_a_lot_of",
+        "english": "A lot of. There are a lot of books here.",
+        "japanese": "ここにはたくさんの本があります。",
+        "jpg": "【C49_a_lot_of】There are a lot of books here."
+    },
+    {
+        "id": "C50_a_cup_of",
+        "english": "A cup of. Would you like a cup of tea?",
+        "japanese": "お茶を一杯いかがですか？",
+        "jpg": "【C50_a_cup_of】Would you like a cup of tea?"
+    },
+    {
+        "id": "C51_a_piece_of",
+        "english": "A piece of.The man wrote a message on a piece of paper.",
+        "japanese": "その男の人は、紙切れにメッセージを書きました。",
+        "jpg": "【C51_a_piece_of】The man wrote a message on a piece of paper."
+    },
+    {
+        "id": "C52_one_of",
+        "english": "One of. Judy is one of my friends.",
+        "japanese": "ジュディは私の友達の一人です。",
+        "jpg": "【C52_one_of】Judy is one of my friends."
+    },
+    {
+        "id": "C53_such_as",
+        "english": "Such as. I have Japanese food such as rice, miso soup, and natto.",
+        "japanese": "ご飯や味噌汁、納豆といった日本食を食べています。",
+        "jpg": "【C53_such_as】I have Japanese food such as rice, miso soup, and natto."
+    },
+    {
+        "id": "C54_a_lot",
+        "english": "A lot. I learned a lot from you.",
+        "japanese": "私はあなたからたくさんのことを学びました。",
+        "jpg": "【C54_a_lot】I learned a lot from you."
+    },
+    {
+        "id": "C55_every_day",
+        "english": "Every day. I'm very busy every day.",
+        "japanese": "私は毎日とても忙しいです。",
+        "jpg": "【C55_every_day】I'm very busy every day."
+    },
+    {
+        "id": "C56_all_day",
+        "english": "All day. I stayed home all day yesterday.",
+        "japanese": "昨日は一日中家にいました。",
+        "jpg": "【C56_all_day】I stayed home all day yesterday."
+    },
+    {
+        "id": "C57_this_morning",
+        "english": "This morning. Did you have breakfast this morning?",
+        "japanese": "今朝は朝食を食べましたか？",
+        "jpg": "【C57_this_morning】Did you have breakfast this morning?"
+    },
+    {
+        "id": "C58_at_night",
+        "english": "At night. I go to bed before 11 at night.",
+        "japanese": "夜は11時前に寝ます。",
+        "jpg": "【C58_at_night】I go to bed before 11 at night."
+    },
+    {
+        "id": "C59_after_school",
+        "english": "After school. What do you usually do after school?",
+        "japanese": "放課後はいつも何をしますか?",
+        "jpg": "【C59_after_school】What do you usually do after school?"
+    },
+    {
+        "id": "C60_look_around",
+        "english": "Look around. They looked around but saw nothing.",
+        "japanese": "彼らは周りを見回しましたが、何も見えませんでした。",
+        "jpg": "【C60_look_around】They looked around but saw nothing."
+    },
+    {
+        "id": "C61_all_year_round",
+        "english": "All year round. Can we swim all year round in Hawaii?",
+        "japanese": "ハワイでは一年中泳ぐことができますか?",
+        "jpg": "【C61_all_year_round】Can we swim all year round in Hawaii?"
+    },
+    {
+        "id": "C62_all_the_time",
+        "english": "All the time. Judy talked all the time. And she didn't listen to me.",
+        "japanese": "ジュディはずっと話していました。そして彼女は私の言うことを聞きませんでした。",
+        "jpg": "【C62_all_the_time】Judy talked all the time.／And she didn't listen to me."
+    },
+    {
+        "id": "C63_this_time",
+        "english": "This time, I want to buy a dictionary.",
+        "japanese": "今度は辞書を買いたいです。",
+        "jpg": "【C63_this_time】I want to buy a dictionary."
+    },
+    {
+        "id": "C64_these_days",
+        "english": "These days.many people think about global warming.",
+        "japanese": "最近、多くの人が地球温暖化について考えています。",
+        "jpg": "【C64_these_days】many people think about global warming."
+    },
+    {
+        "id": "C65_one_day",
+        "english": "One day. I went to the station to see my sister.",
+        "japanese": "ある日、私は妹に会いに駅へ行きました。",
+        "jpg": "【C65_one_day】I went to the station to see my sister."
+    },
+    {
+        "id": "C66_in_the_future",
+        "english": "In the future, I want to be a soccer player in the future.",
+        "japanese": "将来はサッカー選手になりたいです。",
+        "jpg": "【C66_in_the_future】I want to be a soccer player in the future."
+    },
+    {
+        "id": "C67_all_over_the_world",
+        "english": "All over the world. This singer is very famous all over the world.",
+        "japanese": "この歌手は世界中でとても有名です。",
+        "jpg": "【C67_all_over_the_world】This singer is very famous all over the world."
+    },
+    {
+        "id": "C68_around_the_world",
+        "english": "C68. Around the world. I'd like to travel around the world someday.",
+        "japanese": "世界中。いつか世界中を旅してみたいです。",
+        "jpg": "【C68_around_the_world】Around the world.／I'd like to travel around the world someday."
+    },
+    {
+        "id": "C69_at_home",
+        "english": "At home. My mother is not at home today.",
+        "japanese": "今日は母が家にいません。",
+        "jpg": "【C69_at_home】My mother is not at home today."
+    },
+    {
+        "id": "C70_at_school",
+        "english": "At school. My father teaches math at school.",
+        "japanese": "私の父は学校で数学を教えています。",
+        "jpg": "【C70_at_school】My father teaches math at school."
+    },
+    {
+        "id": "C71_over_there",
+        "english": "Over there. The box is over there.",
+        "japanese": "箱はあそこにあります。",
+        "jpg": "【C71_over_there】The box is over there."
+    },
+    {
+        "id": "C72_because_of",
+        "english": "Because of. My family moved to Okinawa because of my father's job.",
+        "japanese": "父の仕事の都合で家族で沖縄に移住しました。",
+        "jpg": "【C72_because_of】My family moved to Okinawa because of my father's job."
+    },
+    {
+        "id": "C73_thanks_to",
+        "english": "Thanks to. Thanks to you, I was able to enjoy the trip.",
+        "japanese": "おかげさまで、旅行を楽しむことができました。",
+        "jpg": "【C73_thanks_to】Thanks to you, I was able to enjoy the trip."
+    },
+    {
+        "id": "C74_for_example",
+        "english": "For example, I help my mother with the housework. For example, I clean the house.",
+        "japanese": "私は母の家事を手伝っています。例えば、家の掃除をします。",
+        "jpg": "【C74_for_example】I help my mother with the housework. For example, I clean the house."
+    },
+    {
+        "id": "C75_for_the_first_time",
+        "english": "For the first time. I visited Fukushima for the first time.",
+        "japanese": "初めて福島を訪れました。",
+        "jpg": "【C75_for_the_first_time】I visited Fukushima for the first time."
+    },
+    {
+        "id": "C76_in_fact",
+        "english": "In fact, a lot of young people use their smartphones today.",
+        "japanese": "今日では、多くの若者がスマートフォンを利用しています。",
+        "jpg": "【C76_in_fact】a lot of young people use their smartphones today."
+    },
+    {
+        "id": "C77_at_first",
+        "english": "At first, I was a little surprised.",
+        "japanese": "少し驚きました。",
+        "jpg": "【C77_at_first】I was a little surprised."
+    },
+    {
+        "id": "C78_after_all",
+        "english": "After all. she didn't come to the party.",
+        "japanese": "結局、彼女はパーティーに来ませんでした。",
+        "jpg": "【C78_after_all】she didn't come to the party."
+    },
+    {
+        "id": "C79_of_course",
+        "english": "Of course. Do you remember me? Yes, of course.",
+        "japanese": "私を覚えていますか？はい、もちろん。",
+        "jpg": "【C79_of_course】Do you remember me?／Yes, of course."
+    },
+    {
+        "id": "C80_each_other",
+        "english": "Each_other.We know each other well.",
+        "japanese": "私たちは、お互いのことをよく知っています。",
+        "jpg": "【C80_each_other】We know each other well."
+    },
+    {
+        "id": "C81_right_away",
+        "english": "Right away. Please send this letter right away.",
+        "japanese": "すぐにこの手紙を送ってください。",
+        "jpg": "【C81_right_away】Please send this letter right away."
+    },
+    {
+        "id": "C82_on_the_other_hand",
+        "english": "On the other hand, I like the singer. On the other hand, I don't like his idea.",
+        "japanese": "その歌手のことは好きです。その一方で、彼の考え方は好きではありません。",
+        "jpg": "【C82_on_the_other_hand】I like the singer. On the other hand, I don't like his idea."
+    },
+    {
+        "id": "C83_more_than",
+        "english": "More than. This museum has more than 10,000 things to see.",
+        "japanese": "この博物館には 10,000 以上の見どころがあります。",
+        "jpg": "【C83_more_than】This museum has more than 10,000 things to see."
+    },
+    {
+        "id": "C84_not_at_all",
+        "english": "Not at all. My mother can't swim at all. My mother cannot swim at all.",
+        "japanese": "私の母は全く泳げません。私の母は全く泳げません。",
+        "jpg": "【C84_not_at_all】My mother can't swim at all.／My mother cannot swim at all."
+    },
+    {
+        "id": "C85_very_much",
+        "english": "Very much. I like it very much.",
+        "japanese": "とても気に入っています。",
+        "jpg": "【C85_very_much】I like it very much."
+    },
+    {
+        "id": "C86_year_s_old",
+        "english": "Year old. Years old. My son is 15 years old.",
+        "japanese": "歳。私の息子は15歳です。",
+        "jpg": "【C86_year_s_old】Years old.／My son is 15 years old."
+    },
+    {
+        "id": "C87_in_front_of",
+        "english": "In front of. Let's meet in front of the library.",
+        "japanese": "図書館の前で会いましょう。",
+        "jpg": "【C87_in_front_of】Let's meet in front of the library."
+    },
+    {
+        "id": "C88_next_to",
+        "english": "Next to. The library is next to the station.",
+        "japanese": "図書館は駅の隣にあります。",
+        "jpg": "【C88_next_to】The library is next to the station."
+    },
+    {
+        "id": "C89_out_of",
+        "english": "Out of hope. Look out of the window.",
+        "japanese": "窓の外を見てください。",
+        "jpg": "【C89_out_of】Look out of the window."
+    },
+    {
+        "id": "C90_try_to",
+        "english": "Try two. Try to speak in simple English.",
+        "japanese": "簡単な英語で話してみてください。",
+        "jpg": "【C90_try_to】Try to speak in simple English."
+    },
+    {
+        "id": "C91_like_ing_to",
+        "english": "Like-ing Like to. I like reading books.",
+        "japanese": "私は本を​​読むのが好きです。",
+        "jpg": "【C91_like_ing_to】I like reading books."
+    },
+    {
+        "id": "C92_go_ing",
+        "english": "Go in. We went fishing in the river. We went fishing in the sea.",
+        "japanese": "私たちは川に釣りに行きました。私たちは海に釣りに行きました。",
+        "jpg": "【C92_go_ing】We went fishing in the river.／We went fishing in the sea."
+    },
+    {
+        "id": "C93_between_and",
+        "english": "Between and. I want to become a bridge between Japan and China.",
+        "japanese": "日本と中国の架​​け橋になりたいです。",
+        "jpg": "【C93_between_and】I want to become a bridge between Japan and China."
+    },
+    {
+        "id": "C94_both_and",
+        "english": "Both and. My brother can play both basketball and soccer very well.",
+        "japanese": "私の兄はバスケットボールとサッカーの両方がとても上手です。",
+        "jpg": "【C94_both_and】My brother can play both basketball and soccer very well."
+    },
+    {
+        "id": "C95_from_to",
+        "english": "From To. I have classes from Monday to Friday.",
+        "japanese": "月曜日から金曜日まで授業があります。",
+        "jpg": "【C95_from_to】I have classes from Monday to Friday."
+    },
+    {
+        "id": "C96_not_only_but_also",
+        "english": "Not only. But also, He experienced not only good things but also bad things.",
+        "japanese": "彼は良いことだけでなく悪いことも経験した。",
+        "jpg": "【C96_not_only_but_also】He experienced not only good things but also bad things."
+    },
+    {
+        "id": "C97_have_to",
+        "english": "Have to. I have to do my homework.",
+        "japanese": "宿題をしなければなりません。",
+        "jpg": "【C97_have_to】I have to do my homework."
+    },
+    {
+        "id": "C98_don_t_have_to",
+        "english": "Don't have to. You don't have to go to the party.",
+        "japanese": "パーティーに行く必要はありません。",
+        "jpg": "【C98_don_t_have_to】You don't have to go to the party."
+    },
+    {
+        "id": "C99_all_right",
+        "english": "All right. Are you feeling alright?",
+        "japanese": "体調は大丈夫ですか？",
+        "jpg": "【C99_all_right】Are you feeling alright?"
+    },
+    {
+        "id": "C100_by_the_way",
+        "english": "By the way, Are you free this Friday?",
+        "japanese": "今週の金曜日は空いていますか？",
+        "jpg": "【C100_by_the_way】Are you free this Friday?"
+    }
+]
