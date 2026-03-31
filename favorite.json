@@ -2992,11 +2992,5 @@
         "english": "All right. Are you feeling alright?",
         "japanese": "体調は大丈夫ですか？",
         "jpg": "【C99_all_right】Are you feeling alright?"
-    },
-    {
-        "id": "C100_by_the_way",
-        "english": "By the way, Are you free this Friday?",
-        "japanese": "今週の金曜日は空いていますか？",
-        "jpg": "【C100_by_the_way】Are you free this Friday?"
     }
 ]
